@@ -6,8 +6,7 @@ Data Acquisition
 Project Report
 Friedrich Alexander Universität Erlangen-Nürnberg
 
-Md Rearuzzaman Hridoy
-
+Md Rearuzzaman Hridoy<br>
 ID: 23047806
 
 Supervisor: Prof. Dirk Riehle
