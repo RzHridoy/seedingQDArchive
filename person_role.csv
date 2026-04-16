@@ -1,0 +1,2794 @@
+id,project_id,name,role
+1,1,"Ibitoye, Mobolaji",AUTHOR
+2,1,"OlaOlorun, Funmilola",AUTHOR
+3,1,"Casterline, John",AUTHOR
+4,2,"Zhou, Chengmin",AUTHOR
+5,2,"Gu, Wenhui",AUTHOR
+6,3,"Arnold, Emily",AUTHOR
+7,3,"Koester, Kimberly",AUTHOR
+8,4,"Lambert, Catherine",AUTHOR
+9,5,"Bleich, Erik",AUTHOR
+10,6,"Awasthi, Kiran",AUTHOR
+11,7,"Virbel-Fleischman, Clara",AUTHOR
+12,8,"Silan, Miguel Alejandro",AUTHOR
+13,8,"Ciruelas, Nica",AUTHOR
+14,9,"Lutz, Amy",AUTHOR
+15,10,"Saberi, Parya",AUTHOR
+16,11,"Vignola, Emilia",AUTHOR
+17,11,"Ahonen, Emily",AUTHOR
+18,11,"Hajat, Anjum",AUTHOR
+19,12,"Holland, Alisha",AUTHOR
+20,13,"Mueller, Jennifer",AUTHOR
+21,13,"Kirstein, Marielle",AUTHOR
+22,13,"VandeVusse, Alicia",AUTHOR
+23,13,"Lindberg, Laura",AUTHOR
+24,14,"Ruedin, Didier",AUTHOR
+25,14,"Murahwa, Brian",AUTHOR
+26,15,"Schell, Jane",AUTHOR
+27,15,"Ernecoff, Natalie",AUTHOR
+28,16,"YEH, EMILY",AUTHOR
+29,17,"Lum, Hillary",AUTHOR
+30,18,"Mahr, Dana",AUTHOR
+31,19,"Miró, Àlex",AUTHOR
+32,20,"McIntosh, Tristan",AUTHOR
+33,21,"Biszaha, Anna",AUTHOR
+34,22,"Izumi, Seiko",AUTHOR
+35,23,"Mersha, Girmay Ayana",AUTHOR
+36,24,"Holland, Melanie",AUTHOR
+37,24,"Demaree, Katherine",AUTHOR
+38,24,"Thomas, Evan",AUTHOR
+39,25,"Spek, Deanne",AUTHOR
+40,25,"Vegt, Niko",AUTHOR
+41,26,"Shdaimah, Corey",AUTHOR
+42,26,"Franke, Nancy",AUTHOR
+43,27,"Alvarez, Carmen",AUTHOR
+44,28,"Flom, Hernan",AUTHOR
+45,28,"Post, Alison",AUTHOR
+46,29,"Moorlock, Greg",AUTHOR
+47,30,"Steinberg, Beth",AUTHOR
+48,30,"Mulugeta, Yulia",AUTHOR
+49,30,"Quatman-Yates, Catherine",AUTHOR
+50,30,"Williams, Maeghan",AUTHOR
+51,30,"Gogineni, Anvitha",AUTHOR
+52,30,"Klatt, Maryanna",AUTHOR
+53,31,"Matos, Lisvel",AUTHOR
+54,31,"Gonzalez-Guarda, Rosa",AUTHOR
+55,31,"Salas, Jasmine",AUTHOR
+56,31,"Muñoz, Caroline",AUTHOR
+57,32,"Bezabih, Alemitu Mequanint",AUTHOR
+58,32,"Smith, C. Estelle",AUTHOR
+59,33,"Rabello Sodre, Joao Gabriel",AUTHOR
+60,34,"Kumwenda, Moses Kelly",AUTHOR
+61,34,"Mukoka, Madalo",AUTHOR
+62,34,"Mhango, Owen",AUTHOR
+63,34,"Choko, Augustine",AUTHOR
+64,35,"Baum, Eleonore",AUTHOR
+65,35,"Usman, Sied",AUTHOR
+66,35,"Abdilahi, Roda",AUTHOR
+67,36,"Boyer, Eric",AUTHOR
+68,37,"Chang, Pi Hua",AUTHOR
+69,38,"Fleming, Rhiannon",AUTHOR
+70,39,"Furuno, Jon",AUTHOR
+71,40,"Dreyer, Rachel P.",AUTHOR
+72,40,"Pavlo, Anthony",AUTHOR
+73,41,"Ingram, Carolyn",AUTHOR
+74,42,"Lee, Sunghoon Ivan",AUTHOR
+75,42,"Choe, Eun Kyoung",AUTHOR
+76,42,"Jung, Hee-Tae",AUTHOR
+77,43,"Milman, Anita",AUTHOR
+78,44,"Jasmine, Umme Habiba",AUTHOR
+79,45,"Gazaway, Shena",AUTHOR
+80,45,"Wells, Rachel",AUTHOR
+81,45,"Haley, John",AUTHOR
+82,45,"Gutierrez, Orlando M.",AUTHOR
+83,45,"Nix-Parker, Tamara",AUTHOR
+84,45,"Martinez, Isaac",AUTHOR
+85,45,"Lyas, Clare",AUTHOR
+86,45,"Lang-Lindsey, Katina",AUTHOR
+87,45,"Knight, Richard",AUTHOR
+88,45,"Odom, J. Nicholas",AUTHOR
+89,46,"Hampanda, Karen",AUTHOR
+90,47,"Gans-Morse, Jordan",AUTHOR
+91,48,Shoshana,AUTHOR
+92,49,"Ivanov, Ivan Dinev",AUTHOR
+93,50,"McIntosh, Tristan",AUTHOR
+94,50,"Leuthardt, Eric",AUTHOR
+95,51,"Calba, Clémentine",AUTHOR
+96,52,"Zuber, Katie",AUTHOR
+97,52,"Strach, Patricia",AUTHOR
+98,52,"Pérez-Chiqués, Elizabeth",AUTHOR
+99,53,"Dodgers, Steph",AUTHOR
+100,54,"Matima, Rangarirai",AUTHOR
+101,54,"murphy, katherine",AUTHOR
+102,54,"Levitt, Naomi S.",AUTHOR
+103,54,"BeLue, Rhonda",AUTHOR
+104,54,"Oni, Tolu",AUTHOR
+105,55,"Young, Scott W. H.",AUTHOR
+106,56,"Hutchinson, Emily",AUTHOR
+107,57,"Gusdal, Annelie K.",AUTHOR
+108,58,"Dodgers, Steph",AUTHOR
+109,59,"Paspuleti, Shirisha",AUTHOR
+110,60,"Micatka, Nathan K.",AUTHOR
+111,61,"Madrid, Raúl",AUTHOR
+112,62,"Gibson, Charlotte",AUTHOR
+113,63,"Patnaik, Hannah",AUTHOR
+114,64,"Mannheimer, Sara",AUTHOR
+115,65,"Yakubu, Aminu",AUTHOR
+116,66,"Hale, Thomas",AUTHOR
+117,67,"Cooksey, Krista",AUTHOR
+118,67,"Goldstein, Eliana",AUTHOR
+119,67,"Politi, Mary",AUTHOR
+120,68,"DeCamp, Matthew",AUTHOR
+121,69,"Ramirez Stege, Alyssa M.",AUTHOR
+122,69,"Yarris, Kristin Elizabeth",AUTHOR
+123,70,"McGovern, Lynn",AUTHOR
+124,71,"Furlong, Darcy E.",AUTHOR
+125,71,"Romero, Anna",AUTHOR
+126,71,"Helström, Kirstin",AUTHOR
+127,71,"Lester, Jessica Nina",AUTHOR
+128,71,"Karcher, Sebastian",AUTHOR
+129,72,"Masullo, Juan",AUTHOR
+130,73,"VandeVusse, Alicia",AUTHOR
+131,73,"Mueller, Jennifer",AUTHOR
+132,74,"Hickner, Andy",AUTHOR
+133,75,"BORGHINI, STEFANIA",AUTHOR
+134,76,"Harrison, Krista",AUTHOR
+135,77,"Cooksey, Krista",AUTHOR
+136,77,"Politi, Mary",AUTHOR
+137,77,"Housten, Ashley",AUTHOR
+138,78,"Aguessivognon, Togla  Aymard",AUTHOR
+139,79,"Lalla, Amber",AUTHOR
+140,80,"O'Leary, Paige",AUTHOR
+141,81,"Rich , Jessica 0000-0002-6859-8403",AUTHOR
+142,82,HealthyVOICES Project 0000-0002-9487-1493,AUTHOR
+143,83,"Jacobs, Nancy J.",AUTHOR
+144,84,"McGinley, John",AUTHOR
+145,84,"Ksor, Risuin",AUTHOR
+146,84,"Bush, Catherine",AUTHOR
+147,85,"Herrera, Veronica",AUTHOR
+148,86,"Shuman, Andrew",AUTHOR
+149,87,"Luigjes, Christiaan",AUTHOR
+150,88,"Rampin, Vicky",AUTHOR
+151,88,"Nguyễn, Sarah",AUTHOR
+152,89,"Kirilova, Dessislava",AUTHOR
+153,89,"Kapiszewski, Diana",AUTHOR
+154,90,"Swenson, Geoffrey",AUTHOR
+155,91,"Gueorguiev, Dimitar",AUTHOR
+156,92,"Goldstein, Eliana",AUTHOR
+157,92,"Cooksey, Krista",AUTHOR
+158,92,"Politi, Mary",AUTHOR
+159,93,"Guastaferro, Kate",AUTHOR
+160,94,"St John, Taylor",AUTHOR
+161,95,"Mehling, Wolf",AUTHOR
+162,95,"Strigo, Irina",AUTHOR
+163,95,"Goldman, Veronica",AUTHOR
+164,95,"Hartogensis, Wendy",AUTHOR
+165,95,"Adler, Shelley",AUTHOR
+166,95,"Lotz, Jeffrey",AUTHOR
+167,95,"Hecht, Frederick",AUTHOR
+168,96,"Bou Nassif, Hicham",AUTHOR
+169,97,"Ogunbajo, Adedotun",AUTHOR
+170,97,"Hickson, DeMarc",AUTHOR
+171,98,"Godana Boynito, Wanzahun",AUTHOR
+172,99,"Turk, Tahir",AUTHOR
+173,100,"Tallman, Paula",AUTHOR
+174,100,"cole, Stroma",AUTHOR
+175,100,"Rusyidi, Binahayati",AUTHOR
+176,100,"Salmon-Mulanovich, Gabriela",AUTHOR
+177,101,"Joarder, Taufique",AUTHOR
+178,102,"Jennerich, Ann",AUTHOR
+179,103,"Kumwenda, Moses Kelly",AUTHOR
+180,104,"Ellett, Rachel",AUTHOR
+181,105,"Mack, Jennifer",AUTHOR
+182,106,"Fosher, Kerry",AUTHOR
+183,107,"Galli, Chiara",AUTHOR
+184,108,"Rampin, Vicky",AUTHOR
+185,108,"Peltzman, Shira",AUTHOR
+186,108,"Kim, Julia",AUTHOR
+187,108,"Griesinger, Peggy",AUTHOR
+188,108,"Blumenthal, Karl-Rainer",AUTHOR
+189,109,"Valand, Ida Ulrikke",AUTHOR
+190,110,"Fosher, Kerry",AUTHOR
+191,111,"Reb, Anne",AUTHOR
+192,112,"Fosher, Kerry",AUTHOR
+193,113,"O'Neill, Maureen",AUTHOR
+194,114,"Shdaimah, Corey",AUTHOR
+195,115,"Kapiszewski, Diana",AUTHOR
+196,116,"Bril-Mascarenhas, Tomas",AUTHOR
+197,116,"Post, Alison",AUTHOR
+198,117,"Vedanthan, Rajesh",AUTHOR
+199,118,"Dunning, Thad",AUTHOR
+200,118,"Camp, Edwin",AUTHOR
+201,119,"Bush, Sarah",AUTHOR
+202,119,"Stroup, Sarah",AUTHOR
+203,120,"Gallagher, Janice",AUTHOR
+204,121,"Cataldo, Tara",AUTHOR
+205,121,"Buhler, Amy",AUTHOR
+206,121,"Faniel, Ixchel",AUTHOR
+207,121,"Connaway, Lynn",AUTHOR
+208,121,"Valenza, Joyce",AUTHOR
+209,121,"Brannon, Brittany",AUTHOR
+210,121,"Putnam, Samuel",AUTHOR
+211,121,"Graff, Randy",AUTHOR
+212,121,"Elrod, Ed.D., Rachael",AUTHOR
+213,121,"Cyr, Christopher",AUTHOR
+214,121,"Towler, Christine",AUTHOR
+215,121,"Hood, Erin",AUTHOR
+216,121,"Fowler, Robin",AUTHOR
+217,121,"Howland, Summer",AUTHOR
+218,121,"Langer, Kailey",AUTHOR
+219,121,"Kirlew, Shakiyl",AUTHOR
+220,122,"Myrick, Rachel",AUTHOR
+221,122,"Weinstein, Jeremy",AUTHOR
+222,123,"Kelleher, Sarah",AUTHOR
+223,123,"Fisher, Hannah M",AUTHOR
+224,123,"Winger, Joseph",AUTHOR
+225,123,"Miller, Shannon N.",AUTHOR
+226,123,"Amaden, Grace",AUTHOR
+227,123,"somers, tamara",AUTHOR
+228,123,"Colloca, Luana",AUTHOR
+229,123,"Uronis, Hope",AUTHOR
+230,123,"Keefe, Francis",AUTHOR
+231,124,"Arrey, Agnes",AUTHOR
+232,125,"Fosher, Kerry",AUTHOR
+233,126,"Kumar, Pratap",AUTHOR
+234,126,"Fry, M Whitney",AUTHOR
+235,127,"Aguessivognon, Togla  Aymard",AUTHOR
+236,128,"Aguessivognon, Togla  Aymard",AUTHOR
+237,129,"Klager, Elisabeth",AUTHOR
+238,129,"Teufel, Anna",AUTHOR
+239,129,"Hafner, Christian",AUTHOR
+240,130,"Arney, Jennifer",AUTHOR
+241,130,"Bertone, Andrea M.",AUTHOR
+242,131,"Purtle, Jonathan",AUTHOR
+243,132,"Chea, Stevenson",AUTHOR
+244,133,"DuBois, James M.",AUTHOR
+245,134,"Başer, Çağlayan",AUTHOR
+246,135,"Chukwuma, Adanna",AUTHOR
+247,136,"Haney, Lynne",AUTHOR
+248,137,"Chrisman-Khawam, Leanne",AUTHOR
+249,138,"Smith, Jennifer",AUTHOR
+250,138,Holmes-Elliott,AUTHOR
+251,139,"Tabatabai, Ariane M.",AUTHOR
+252,139,"Tracy Samuel, Annie",AUTHOR
+253,140,"Longo, G.M.",AUTHOR
+254,141,"Wurtz, Heather M.",AUTHOR
+255,141,"Mason, Katherine A.",AUTHOR
+256,141,"Flores, Andrea",AUTHOR
+257,141,"Willen, Sarah",AUTHOR
+258,142,"Jones, Kristal",AUTHOR
+259,143,"Boas, Taylor",AUTHOR
+260,144,"Gropper, Hannes",AUTHOR
+261,144,"John, Jannika Maria",AUTHOR
+262,144,"Thiel, Ansgar",AUTHOR
+263,145,"Mayka, Lindsay",AUTHOR
+264,146,"Clarke, Killian",AUTHOR
+265,147,"BOIVIN, Jean-Marc",AUTHOR
+266,148,"Cremaschi, Simone",AUTHOR
+267,148,"Masullo, Juan",AUTHOR
+268,149,"Jones, Shannon",AUTHOR
+269,149,"Calderon, Heyddy",AUTHOR
+270,150,"Willen, Sarah",AUTHOR
+271,150,"Mason, Katherine",AUTHOR
+272,151,"Pedriana, Nicholas",AUTHOR
+273,152,"Posner, Elliot",AUTHOR
+274,152,"Quaglia, Lucia",AUTHOR
+275,153,"Johnson, Genevieve Fuji",AUTHOR
+276,154,"Posner, Elliot",AUTHOR
+277,154,"Quaglia, Lucia",AUTHOR
+278,155,"Hegarty, Kelsey",AUTHOR
+279,155,"McKibbin, Gemma",AUTHOR
+280,156,"Barnes, Jeb",AUTHOR
+281,156,"Weller, Nicholas",AUTHOR
+282,157,"Drakopulos, Lauren Alexandra",AUTHOR
+283,157,"Havice, Elizabeth",AUTHOR
+284,157,"Crisp, Katie",AUTHOR
+285,157,Ana Zurita Posas,AUTHOR
+286,157,"Campbell, Lisa M",AUTHOR
+287,158,"Chrisman-Khawam, Leanne",AUTHOR
+288,159,"Salvador, Karen",AUTHOR
+289,160,"Webster, Chandler",AUTHOR
+290,161,"Mazur, Elizabeth",AUTHOR
+291,162,"Mildenberger, Matto",AUTHOR
+292,163,"Sozon, Mohammad",AUTHOR
+293,163,"Alkarabsheh, O. H. M.",AUTHOR
+294,163,"Pok, W. F",AUTHOR
+295,163,"Sia, B. C.",AUTHOR
+296,164,"Kreuzer, Markus",AUTHOR
+297,165,"Dion, Haley",AUTHOR
+298,165,"Choi, Hanul",AUTHOR
+299,165,"Huang, Michelle Viandy",AUTHOR
+300,165,"Sathyan, Laya",AUTHOR
+301,165,"Makhulo, Breandan",AUTHOR
+302,165,"Huchko, Megan",AUTHOR
+303,166,"goertz, gary",AUTHOR
+304,166,"Powers, Kathy",AUTHOR
+305,167,"Hamilton, Melissa",AUTHOR
+306,168,"Elkins, Zachary",AUTHOR
+307,168,"Ginsburg, Tom",AUTHOR
+308,168,"Melton, James",AUTHOR
+309,169,"Dev, Jeetendra",AUTHOR
+310,170,"Trachtenberg, Marc",AUTHOR
+311,171,"Burke, Matthew",AUTHOR
+312,172,"Trachtenberg, Marc",AUTHOR
+313,173,"Monmonier, Mark",AUTHOR
+314,174,"Acolin, Jessica",AUTHOR
+315,174,"Jampel, Sonya",AUTHOR
+316,175,"Fazal, Tanisha",AUTHOR
+317,175,"Fortna, Page",AUTHOR
+318,176,"Mannheimer, Sara",AUTHOR
+319,176,"Bond, Natalie",AUTHOR
+320,176,"W. H. Young, Scott",AUTHOR
+321,176,"Scates Kettler, Hannah",AUTHOR
+322,176,"Marcus, Addison",AUTHOR
+323,176,"Slipher, Sally",AUTHOR
+324,176,"Clark, Jason A.",AUTHOR
+325,176,"Shorish, Yasmeen",AUTHOR
+326,176,"Rossmann, Doralyn",AUTHOR
+327,176,"Sheehey, Bonnie",AUTHOR
+328,177,"Trachtenberg, Marc",AUTHOR
+329,178,"BLOUIN, Cédric",AUTHOR
+330,178,"Genet, François",AUTHOR
+331,178,"Denormandie, Philippe",AUTHOR
+332,178,"Graff, Wilfrid",AUTHOR
+333,178,"Perrier, Antoine",AUTHOR
+334,179,"Cassese, Erin 0000-0002-6443-6511",AUTHOR
+335,180,"Trachtenberg, Marc",AUTHOR
+336,181,"Ravndal, Jacob Aasland",AUTHOR
+337,182,"Gusdal, Annelie K.",AUTHOR
+338,182,"Florin, Ulrika",AUTHOR
+339,182,"Johansson-Pajala, Rose-Marie",AUTHOR
+340,182,"Eklund, Caroline",AUTHOR
+341,182,"Fritz, Johanna",AUTHOR
+342,182,"von Heideken Wågert, Petra",AUTHOR
+343,183,"Riedl, Rachel Beatty",AUTHOR
+344,183,"McClendon, Gwyneth",AUTHOR
+345,184,"Moore, Avalon S.",AUTHOR
+346,184,"Bridget, Vitu",AUTHOR
+347,184,"Fraizer-Bisner, Felicia",AUTHOR
+348,184,"Williams, Peter J.",AUTHOR
+349,184,"van der Merwe, Lucy",AUTHOR
+350,184,"Gouda, Abdelrhman",AUTHOR
+351,184,"Pittenger, Christopher",AUTHOR
+352,184,"Pushkarskaya, Helen",AUTHOR
+353,185,"Bremers, Alexandra",AUTHOR
+354,185,"Fang, Xuanyu",AUTHOR
+355,185,"Friedman, Natalie",AUTHOR
+356,185,"Ju, Wendy",AUTHOR
+357,186,"Moore, Avalon S.",AUTHOR
+358,186,"Vitu, Bridget",AUTHOR
+359,186,"Fraizer-Bisner, Felicia",AUTHOR
+360,186,"Williams, Peter J.",AUTHOR
+361,186,"Chun, Madeline",AUTHOR
+362,186,"Archer, Claire",AUTHOR
+363,186,"Gouda, Abdelrhman",AUTHOR
+364,186,"Vallabh, Akhil",AUTHOR
+365,186,"Wilens, Alixandra",AUTHOR
+366,186,"Pittenger, Christopher",AUTHOR
+367,186,"Pushkarskaya, Helen",AUTHOR
+368,187,"Hitt, Matthew",AUTHOR
+369,188,"Paglayan, Agustina",AUTHOR
+370,189,"Skarbek, David",AUTHOR
+371,190,"Murray, Christina",AUTHOR
+372,191,"Ebrahim, Hassen",AUTHOR
+373,192,"Kiganahe, Didace",AUTHOR
+374,192,"Ngenge, Yuhniwo",AUTHOR
+375,193,"Reyes, Norman Wray",AUTHOR
+376,193,"Hamburger, Jacob",AUTHOR
+377,194,"Roever, Sally",AUTHOR
+378,195,"Handlin, Samuel",AUTHOR
+379,196,"M'Barek, Mabrouka",AUTHOR
+380,197,"Trachtenberg, Marc",AUTHOR
+381,198,"Rinkus, Marisa",AUTHOR
+382,199,"Svyantek, Martina",AUTHOR
+383,200,"Wedeen, Lisa",AUTHOR
+384,201,"Leonard, Don",AUTHOR
+385,202,"Nimani, Gresa Caka",AUTHOR
+386,203,"Doherty Bea, Megan",AUTHOR
+387,204,"Mainwaring, Scott",AUTHOR
+388,204,"Perez-Linan, Anibal",AUTHOR
+389,205,"Avery, Rosemary",AUTHOR
+390,205,"Byrne, Sahara",AUTHOR
+391,205,"Dorf, Michael C",AUTHOR
+392,205,"Greiner Safi, Amelia",AUTHOR
+393,205,"Kalaji, Motasem",AUTHOR
+394,205,"Mathios, Alan",AUTHOR
+395,205,"Niederdeppe, Jeff",AUTHOR
+396,205,"Porticella, Norman",AUTHOR
+397,206,"Kreps, Sarah E.",AUTHOR
+398,206,"Saunders, Elizabeth N.",AUTHOR
+399,206,"Schultz, Kenneth",AUTHOR
+400,207,"Snyder, Jack",AUTHOR
+401,208,"Corsi, Mario",AUTHOR
+402,208,"Porrovecchio, Alessandro",AUTHOR
+403,209,"Soifer, Hillel",AUTHOR
+404,210,"Pierskalla, Jan Henryk",AUTHOR
+405,210,"De Juan, Alexander",AUTHOR
+406,211,"Berntzen, Lars Erik",AUTHOR
+407,211,"Ravndal, Jacob Aasland",AUTHOR
+408,212,"Castro, Mariana",AUTHOR
+409,213,"Loyle, Cyanne",AUTHOR
+410,213,"davenport, christian",AUTHOR
+411,213,"Sullivan, Christopher",AUTHOR
+412,214,"Gonzalez Ocantos, Ezequiel",AUTHOR
+413,215,"Saunders, Elizabeth",AUTHOR
+414,216,"O'Mahoney, Joseph",AUTHOR
+415,217,"Serrano Gómez, Luis",AUTHOR
+416,218,"Musgrave, Paul",AUTHOR
+417,219,"Tidy, Joanna",AUTHOR
+418,220,GO Discuss Project,AUTHOR
+419,221,"Plapinger, Samuel",AUTHOR
+420,222,"Crawford, Timothy W.",AUTHOR
+421,223,"Howell, Heather",AUTHOR
+422,223,"Mikeska, Jamie",AUTHOR
+423,223,"Tierney, Jessica",AUTHOR
+424,223,"Baehr, Benjamin",AUTHOR
+425,223,"Lehman, Penny",AUTHOR
+426,224,"Howell, Heather",AUTHOR
+427,224,"Mikeska, Jamie",AUTHOR
+428,224,"Tierney, Jessica",AUTHOR
+429,224,"Baehr, Benjamin",AUTHOR
+430,224,"Lehman, Penny",AUTHOR
+431,225,"Howell, Heather",AUTHOR
+432,225,"Mikeska, Jamie",AUTHOR
+433,225,"Tierney, Jessica",AUTHOR
+434,225,"Baehr, Benjamin",AUTHOR
+435,225,"Lehman, Penny",AUTHOR
+436,226,"Mikeska, Jamie",AUTHOR
+437,226,"Howell, Heather",AUTHOR
+438,226,"Orlandi, Elizabeth",AUTHOR
+439,226,"King, Kenneth",AUTHOR
+440,226,"Lipari, Michelle",AUTHOR
+441,226,"Simonelli, Glenn",AUTHOR
+442,227,"Mikeska, Jamie",AUTHOR
+443,227,"Howell, Heather",AUTHOR
+444,227,"Orlandi, Elizabeth",AUTHOR
+445,227,"King, Kenneth",AUTHOR
+446,227,"Lipari, Michelle",AUTHOR
+447,227,"Simonelli, Glenn",AUTHOR
+448,228,"Mikeska, Jamie",AUTHOR
+449,228,"Howell, Heather",AUTHOR
+450,228,"Orlandi, Elizabeth",AUTHOR
+451,228,"King, Kenneth",AUTHOR
+452,228,"Lipari, Michelle",AUTHOR
+453,228,"Simonelli, Glenn",AUTHOR
+454,229,"Mikeska, Jamie",AUTHOR
+455,229,"Howell, Heather",AUTHOR
+456,229,"ciofalo, joseph",AUTHOR
+457,229,"devitt, adam",AUTHOR
+458,229,"Orlandi, Elizabeth",AUTHOR
+459,229,"King, Kenneth",AUTHOR
+460,229,"Lipari, Michelle",AUTHOR
+461,229,"Simonelli, Glenn",AUTHOR
+462,230,"Howell, Heather",AUTHOR
+463,230,"Mikeska, Jamie",AUTHOR
+464,230,"Tierney, Jessica",AUTHOR
+465,230,"Baehr, Benjamin",AUTHOR
+466,230,"Lehman, Penny",AUTHOR
+467,231,GO Discuss Project,AUTHOR
+468,232,"Zagare, Frank",AUTHOR
+469,233,"Göllner, Tobias",AUTHOR
+470,233,"Klotz, Johannes",AUTHOR
+471,234,Statistics Austria,AUTHOR
+472,235,Statistics Austria,AUTHOR
+473,236,Statistics Austria,AUTHOR
+474,237,Statistics Austria,AUTHOR
+475,238,"Schönherr, Daniel",AUTHOR
+476,238,"Lehner, Lukas",AUTHOR
+477,239,Statistics Austria,AUTHOR
+478,240,Statistics Austria,AUTHOR
+479,241,"Capistrano, Daniel",AUTHOR
+480,241,"Creighton, Mathew",AUTHOR
+481,242,"Wolter, Stella",AUTHOR
+482,242,"Liepold, Mira",AUTHOR
+483,242,"Tatzber, Rosa",AUTHOR
+484,242,"Sauer, Birgit",AUTHOR
+485,243,Statistics Austria,AUTHOR
+486,244,Statistics Austria,AUTHOR
+487,245,"Hudler-Seitzberger, Michaela",AUTHOR
+488,245,"Bittner, Marc",AUTHOR
+489,246,Statistics Austria,AUTHOR
+490,247,Statistics Austria,AUTHOR
+491,248,"Hager, Isabella",AUTHOR
+492,248,"Hudler-Seitzberger, Michaela",AUTHOR
+493,248,"Eder, Anselm",AUTHOR
+494,249,"Kalová, Tereza",AUTHOR
+495,249,"Fürst, Elena",AUTHOR
+496,250,Statistics Austria,AUTHOR
+497,251,Statistics Austria,AUTHOR
+498,252,"Kritzinger, Sylvia",AUTHOR
+499,252,"Aichholzer, Julian",AUTHOR
+500,252,"Johann, David",AUTHOR
+501,252,"Wagner, Markus",AUTHOR
+502,252,"Willman, Johanna",AUTHOR
+503,252,"Zeglovits, Eva",AUTHOR
+504,253,Statistics Austria,AUTHOR
+505,254,"Riedl, Andreas",AUTHOR
+506,255,"Nowak, Günter",AUTHOR
+507,256,PUMA,AUTHOR
+508,257,PUMA,AUTHOR
+509,258,Statistics Austria,AUTHOR
+510,259,Statistics Austria,AUTHOR
+511,260,Statistics Austria,AUTHOR
+512,261,PUMA,AUTHOR
+513,262,Statistics Austria,AUTHOR
+514,263,Statistics Austria,AUTHOR
+515,264,"Müller, Karl H.",AUTHOR
+516,265,"Grüner, Bernhard",AUTHOR
+517,265,"Konzett, Savina",AUTHOR
+518,266,Statistics Austria,AUTHOR
+519,267,"Hudler-Seitzberger, Michaela",AUTHOR
+520,267,"Bittner, Marc",AUTHOR
+521,268,"Kittel, Bernhard",AUTHOR
+522,268,"Verwiebe, Roland",AUTHOR
+523,269,Statistics Austria,AUTHOR
+524,270,Statistics Austria,AUTHOR
+525,271,"Hudler-Seitzberger, Michaela",AUTHOR
+526,271,"Bittner, Marc",AUTHOR
+527,272,"Konzett, Savina",AUTHOR
+528,272,"Grüner, Bernhard",AUTHOR
+529,273,"Kritzinger, Sylvia",AUTHOR
+530,273,"Zeglovits, Eva",AUTHOR
+531,273,"Aichholzer, Julian",AUTHOR
+532,273,"Glantschnigg, Christian",AUTHOR
+533,273,"Glinitzer, Konstantin",AUTHOR
+534,273,"Johann, David",AUTHOR
+535,273,"Thomas, Kathrin",AUTHOR
+536,273,"Wagner, Markus",AUTHOR
+537,274,Statistics Austria,AUTHOR
+538,275,Statistics Austria,AUTHOR
+539,276,Statistics Austria,AUTHOR
+540,277,"Walzenbach, Sandra",AUTHOR
+541,277,"Hinz, Thomas",AUTHOR
+542,278,Statistics Austria,AUTHOR
+543,279,"Walter-Laager, Cathrine",AUTHOR
+544,279,"Flöter, Manja",AUTHOR
+545,279,"Pölzl-Stefanec, Eva",AUTHOR
+546,280,Statistics Austria,AUTHOR
+547,281,"Hudler-Seitzberger, Michaela",AUTHOR
+548,281,"Bittner, Marc",AUTHOR
+549,282,Statistics Austria,AUTHOR
+550,283,Statistics Austria,AUTHOR
+551,284,Statistics Austria,AUTHOR
+552,285,Statistics Austria,AUTHOR
+553,286,"Nowak, Günter",AUTHOR
+554,287,"Grebosz-Haring, Katarzyna",AUTHOR
+555,287,"Heilgendorff, Simone",AUTHOR
+556,287,"Velasco-Pufleau, Luis",AUTHOR
+557,287,"Żyła, Monika",AUTHOR
+558,288,Statistics Austria,AUTHOR
+559,289,Statistics Austria,AUTHOR
+560,290,Statistics Austria,AUTHOR
+561,291,Statistics Austria,AUTHOR
+562,292,Statistics Austria,AUTHOR
+563,293,Statistics Austria,AUTHOR
+564,294,Statistics Austria,AUTHOR
+565,295,"Wetzelhütter, Daniela",AUTHOR
+566,296,"Nowak, Günter",AUTHOR
+567,297,"Salem, Ingrid",AUTHOR
+568,297,"Renner, Walter",AUTHOR
+569,298,Statistics Austria,AUTHOR
+570,299,"Wimmer-Puchinger, Beate",AUTHOR
+571,300,Statistics Austria,AUTHOR
+572,301,"Freidl, Wolfgang",AUTHOR
+573,301,"Stolz, Erwin",AUTHOR
+574,302,Statistics Austria,AUTHOR
+575,303,"Prandner, Dimitri",AUTHOR
+576,304,"Bodlos, Anita",AUTHOR
+577,305,Statistics Austria,AUTHOR
+578,306,Statistics Austria,AUTHOR
+579,307,"LaFlamme, Marcel",AUTHOR
+580,307,"Poetz, Marion",AUTHOR
+581,307,"Spichtinger, Daniel",AUTHOR
+582,308,"Voorpostel, Marieke",AUTHOR
+583,308,"Roberts, Caroline",AUTHOR
+584,308,"Ghoorbin, Margarita",AUTHOR
+585,309,"Bacher, Johann",AUTHOR
+586,309,"Beham-Rabanser, Martina",AUTHOR
+587,309,"Grausgruber, Alfred",AUTHOR
+588,309,"Haller, Max",AUTHOR
+589,309,"Höllinger, Franz",AUTHOR
+590,309,"Muckenhuber, Johanna",AUTHOR
+591,309,"Prandner, Dimitri",AUTHOR
+592,309,"Verwiebe, Roland",AUTHOR
+593,310,"Amann, Anton",AUTHOR
+594,310,"Dünser, Martina",AUTHOR
+595,310,"Bischof, Christian",AUTHOR
+596,311,"Degelsegger-Marquéz, Alexander",AUTHOR
+597,311,"Kroop, Sylvana",AUTHOR
+598,311,"Wagner, Isabella",AUTHOR
+599,311,"Rigby, John",AUTHOR
+600,311,"Cox, Deborah",AUTHOR
+601,311,"Hinze, Sybille",AUTHOR
+602,311,"Donner, Paul",AUTHOR
+603,311,"Adams, Jonathan",AUTHOR
+604,312,"Hudler-Seitzberger, Michaela",AUTHOR
+605,312,"Bittner, Marc",AUTHOR
+606,313,"Kritzinger, Sylvia",AUTHOR
+607,313,"Thomas, Kathrin",AUTHOR
+608,313,"Glantschnigg, Christian",AUTHOR
+609,313,"Aichholzer, Julian",AUTHOR
+610,313,"Glinitzer, Konstantin",AUTHOR
+611,313,"Johann, David",AUTHOR
+612,313,"Wagner, Markus",AUTHOR
+613,313,"Zeglovits, Eva",AUTHOR
+614,314,Statistics Austria,AUTHOR
+615,315,"Kritzinger, Sylvia",AUTHOR
+616,315,"Plescia, Carolina",AUTHOR
+617,315,"De Sio, Lorenzo",AUTHOR
+618,315,"Paparo, Aldo",AUTHOR
+619,316,"Hudler-Seitzberger, Michaela",AUTHOR
+620,316,"Bittner, Marc",AUTHOR
+621,317,Statistics Austria,AUTHOR
+622,318,Statistics Austria,AUTHOR
+623,319,"Kritzinger, Sylvia",AUTHOR
+624,319,"Johann, David",AUTHOR
+625,319,"Aichholzer, Julian",AUTHOR
+626,319,"Glinitzer, Konstantin",AUTHOR
+627,319,"Glantschnigg, Christian",AUTHOR
+628,319,"Oberluggauer, Patricia",AUTHOR
+629,319,"Thomas, Kathrin",AUTHOR
+630,319,"Wagner, Markus",AUTHOR
+631,319,"Zeglovits, Eva",AUTHOR
+632,320,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+633,320,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+634,321,"Steiner, Olivier",AUTHOR
+635,322,"forsa, Berlin",AUTHOR
+636,322,"forsa, Berlin",AUTHOR
+637,323,Staatsministerin für Sport und Ehrenamt im Bundeskanzleramt,AUTHOR
+638,323,Staatsministerin für Sport und Ehrenamt im Bundeskanzleramt,AUTHOR
+639,324,"German Internet Panel, Universität Mannheim",AUTHOR
+640,324,"German Internet Panel, Universität Mannheim",AUTHOR
+641,325,"German Internet Panel, Universität Mannheim",AUTHOR
+642,325,"German Internet Panel, Universität Mannheim",AUTHOR
+643,326,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+644,326,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+645,327,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+646,327,"Presse- und Informationsamt der Bundesregierung, Berlin",AUTHOR
+647,328,"Pösö, Tarja",AUTHOR
+648,328,"Pösö, Tarja",AUTHOR
+649,329,Nuorisotutkimusseura. Nuorisotutkimusverkosto,AUTHOR
+650,329,Turun yliopisto. Tulevaisuuden tutkimuskeskus,AUTHOR
+651,329,Finnish Youth Research Society. Finnish Youth Research Network,AUTHOR
+652,329,University of Turku. Finland Futures Research Centre,AUTHOR
+653,330,"Tiitinen, Sanni",AUTHOR
+654,330,"Lempiälä, Tea",AUTHOR
+655,330,"Tiitinen, Sanni",AUTHOR
+656,330,"Lempiälä, Tea",AUTHOR
+657,331,Valtion liikuntaneuvosto,AUTHOR
+658,331,Opetus- ja kulttuuriministeriö. Valtion nuorisoneuvosto,AUTHOR
+659,331,Nuorisotutkimusseura,AUTHOR
+660,331,National Sports Council,AUTHOR
+661,331,State Youth Council,AUTHOR
+662,331,Finnish Youth Research Society,AUTHOR
+663,332,Opetus- ja kulttuuriministeriö. Valtion nuorisoneuvosto,AUTHOR
+664,332,Valtion liikuntaneuvosto,AUTHOR
+665,332,Nuorisotutkimusseura,AUTHOR
+666,332,State Youth Council,AUTHOR
+667,332,National Sports Council,AUTHOR
+668,332,Finnish Youth Research Society,AUTHOR
+669,333,"Vacchiano, Mattia",AUTHOR
+670,334,"Lutz, Georg",AUTHOR
+671,335,"Spini, Dario",AUTHOR
+672,336,"Maurer, Markus",AUTHOR
+673,337,"Schwarz, Beate",AUTHOR
+674,338,"Ernst Stähli, Michèle",AUTHOR
+675,338,"Joye, Dominique",AUTHOR
+676,339,"Bulea Bronckart, Ecaterina",AUTHOR
+677,340,"Ullrich, Johannes",AUTHOR
+678,341,"Heintz, Bettina",AUTHOR
+679,341,"Streckeisen, Ursula",AUTHOR
+680,342,"Diekmann, Andreas",AUTHOR
+681,343,"Diekmann, Andreas",AUTHOR
+682,344,"Statham, Paul",AUTHOR
+683,344,"Chabanet, Didier",AUTHOR
+684,344,"Della Porta, Donatella",AUTHOR
+685,344,"Lahusen, Christian",AUTHOR
+686,344,"Linders, Annulla",AUTHOR
+687,344,"Giugni, Marco",AUTHOR
+688,345,"Lobinger, Katharina",AUTHOR
+689,346,"Baglioni, Simone",AUTHOR
+690,346,"Cinalli, Manlio",AUTHOR
+691,346,"Lahusen, Christian",AUTHOR
+692,346,"Eriksson, Birgitta",AUTHOR
+693,346,"Giugni, Marco",AUTHOR
+694,347,"Shanahan, Lilly",AUTHOR
+695,347,"Eisner, Manuel",AUTHOR
+696,347,"Ribeaud, Denis",AUTHOR
+697,348,"Maurer, Markus",AUTHOR
+698,349,"Elcheroth, Guy",AUTHOR
+699,349,"Ndayisaba, Leonidas",AUTHOR
+700,349,"Usoof-Thowfeek, Ramila",AUTHOR
+701,350,"Elcheroth, Guy",AUTHOR
+702,350,"Ndayisaba, Leonidas",AUTHOR
+703,350,"Usoof-Thowfeek, Ramila",AUTHOR
+704,351,"Bulea Bronckart, Ecaterina",AUTHOR
+705,352,"Neuenschwander, Markus P.",AUTHOR
+706,353,"Stutz, Heidi",AUTHOR
+707,354,"Petko, Dominik",AUTHOR
+708,354,"Barras, Jean-Luc",AUTHOR
+709,355,"Freisler-Mühlemann, Daniela",AUTHOR
+710,356,"Walter-Busch, Emil H.",AUTHOR
+711,357,"Metag, Julia",AUTHOR
+712,358,"Baroni, Raphaël",AUTHOR
+713,359,"Voorpostel, Marieke",AUTHOR
+714,360,"Baglioni, Simone",AUTHOR
+715,360,"Cinalli, Manlio",AUTHOR
+716,360,"Lahusen, Christian",AUTHOR
+717,360,"Eriksson, Birgitta",AUTHOR
+718,360,"Giugni, Marco",AUTHOR
+719,361,"Bassand, Michel",AUTHOR
+720,362,"Elcheroth, Guy",AUTHOR
+721,362,"Ndayisaba, Leonidas",AUTHOR
+722,362,"Usoof-Thowfeek, Ramila",AUTHOR
+723,363,"Kriesi, Hanspeter",AUTHOR
+724,363,"Linder, Wolf",AUTHOR
+725,363,"Klöti, Ulrich",AUTHOR
+726,364,"Spini, Dario",AUTHOR
+727,365,"Ernst Stähli, Michèle",AUTHOR
+728,365,"Joye, Dominique",AUTHOR
+729,366,"Ernst Stähli, Michèle",AUTHOR
+730,367,"Widmer, Hannah",AUTHOR
+731,368,"Hess, Kurt",AUTHOR
+732,368,"Smit, Robbert",AUTHOR
+733,369,"Elcheroth, Guy",AUTHOR
+734,369,"Ndayisaba, Leonidas",AUTHOR
+735,369,"Usoof-Thowfeek, Ramila",AUTHOR
+736,370,"Baroni, Raphaël",AUTHOR
+737,371,"Widmer, Hannah",AUTHOR
+738,372,"Lutz, Georg",AUTHOR
+739,373,"Budowski, Monica",AUTHOR
+740,374,"Metag, Julia",AUTHOR
+741,375,"Staerklé, Christian",AUTHOR
+742,376,"Ernst Stähli, Michèle",AUTHOR
+743,376,"Joye, Dominique",AUTHOR
+744,377,"Leonhard, Tobias",AUTHOR
+745,378,"Elcheroth, Guy",AUTHOR
+746,378,"Ndayisaba, Leonidas",AUTHOR
+747,378,"Usoof-Thowfeek, Ramila",AUTHOR
+748,379,"Ernst Stähli, Michèle",AUTHOR
+749,379,"Joye, Dominique",AUTHOR
+750,380,"Schurmans, Marie-Noëlle",AUTHOR
+751,381,"Roulet Schwab, Delphine",AUTHOR
+752,381,"Wangmo, Tenzin",AUTHOR
+753,382,"Elcheroth, Guy",AUTHOR
+754,382,"Ndayisaba, Leonidas",AUTHOR
+755,382,"Usoof-Thowfeek, Ramila",AUTHOR
+756,383,"Kriesi, Hanspeter",AUTHOR
+757,383,"Linder, Wolf",AUTHOR
+758,383,"Klöti, Ulrich",AUTHOR
+759,384,"Freisler-Mühlemann, Daniela",AUTHOR
+760,385,"Abel, Thomas",AUTHOR
+761,386,"Metag, Julia",AUTHOR
+762,387,"Elcheroth, Guy",AUTHOR
+763,387,"Ndayisaba, Leonidas",AUTHOR
+764,387,"Usoof-Thowfeek, Ramila",AUTHOR
+765,388,"Metag, Julia",AUTHOR
+766,389,"Metag, Julia",AUTHOR
+767,389,"Schäfer, Mike S.",AUTHOR
+768,390,"Elcheroth, Guy",AUTHOR
+769,390,"Ndayisaba, Leonidas",AUTHOR
+770,390,"Usoof-Thowfeek, Ramila",AUTHOR
+771,391,"Elcheroth, Guy",AUTHOR
+772,391,"Ndayisaba, Leonidas",AUTHOR
+773,391,"Usoof-Thowfeek, Ramila",AUTHOR
+774,392,"Elcheroth, Guy",AUTHOR
+775,392,"Ndayisaba, Leonidas",AUTHOR
+776,392,"Usoof-Thowfeek, Ramila",AUTHOR
+777,393,"Elcheroth, Guy",AUTHOR
+778,393,"Ndayisaba, Leonidas",AUTHOR
+779,393,"Usoof-Thowfeek, Ramila",AUTHOR
+780,394,"Elcheroth, Guy",AUTHOR
+781,394,"Ndayisaba, Leonidas",AUTHOR
+782,394,"Usoof-Thowfeek, Ramila",AUTHOR
+783,395,"Eckstein, Boris",AUTHOR
+784,395,"Reusser, Kurt",AUTHOR
+785,396,"Ernst Stähli, Michèle",AUTHOR
+786,396,"Joye, Dominique",AUTHOR
+787,397,"Glauser, David",AUTHOR
+788,397,"Becker, Rolf",AUTHOR
+789,398,"Stutz, Heidi",AUTHOR
+790,399,"Grote, Gudela",AUTHOR
+791,400,"Selb, Peter",AUTHOR
+792,401,"Burger, Paul",AUTHOR
+793,402,"Valarino, Isabel",AUTHOR
+794,403,"Manser, Tanja",AUTHOR
+795,404,"Lischer, Suzanne",AUTHOR
+796,404,"Schwarz, Jürg",AUTHOR
+797,405,"Stutz, Heidi",AUTHOR
+798,406,"Metag, Julia",AUTHOR
+799,406,"Schäfer, Mike S.",AUTHOR
+800,407,"Flütsch Keravec, Silvana",AUTHOR
+801,408,"Giugni, Marco",AUTHOR
+802,408,"Della Porta, Donatella",AUTHOR
+803,408,"Rootes, Christopher",AUTHOR
+804,408,"Rucht, Dieter",AUTHOR
+805,408,"Pianta, Mario",AUTHOR
+806,408,"Sommier, Isabelle",AUTHOR
+807,408,"Jiménez, Manuel",AUTHOR
+808,409,"Znoj, Hansjörg",AUTHOR
+809,410,"Elcheroth, Guy",AUTHOR
+810,410,"Ndayisaba, Leonidas",AUTHOR
+811,410,"Usoof-Thowfeek, Ramila",AUTHOR
+812,411,"Vacchiano, Mattia",AUTHOR
+813,412,"Elcheroth, Guy",AUTHOR
+814,412,"Ndayisaba, Leonidas",AUTHOR
+815,412,"Usoof-Thowfeek, Ramila",AUTHOR
+816,413,"Gauthier, Jacques-Antoine",AUTHOR
+817,413,"Widmer, Eric",AUTHOR
+818,413,"Joye, Dominique",AUTHOR
+819,414,"Horber, Eugen",AUTHOR
+820,415,"Bonfadelli, Heinz",AUTHOR
+821,416,"Lutz, Georg",AUTHOR
+822,417,"Schwarb, Thomas",AUTHOR
+823,418,"Haltiner, Karl W.",AUTHOR
+824,419,"Giugni, Marco",AUTHOR
+825,419,"Della Porta, Donatella",AUTHOR
+826,419,"Rootes, Christopher",AUTHOR
+827,419,"Rucht, Dieter",AUTHOR
+828,419,"Pianta, Mario",AUTHOR
+829,419,"Sommier, Isabelle",AUTHOR
+830,419,"Jiménez, Manuel",AUTHOR
+831,420,"Bulea Bronckart, Ecaterina",AUTHOR
+832,421,"Maurer, Markus",AUTHOR
+833,422,"Baglioni, Simone",AUTHOR
+834,422,"Cinalli, Manlio",AUTHOR
+835,422,"Lahusen, Christian",AUTHOR
+836,422,"Eriksson, Birgitta",AUTHOR
+837,422,"Giugni, Marco",AUTHOR
+838,423,"Manser, Tanja",AUTHOR
+839,424,"Garcia, Stéphanie",AUTHOR
+840,424,"Filliettaz, Laurent",AUTHOR
+841,425,"Elsener, Ernst",AUTHOR
+842,426,"Jeannin, André",AUTHOR
+843,427,"Kriesi, Hanspeter",AUTHOR
+844,427,"Linder, Wolf",AUTHOR
+845,427,"Klöti, Ulrich",AUTHOR
+846,428,"Ernst Stähli, Michèle",AUTHOR
+847,429,"Kriesi, Hanspeter",AUTHOR
+848,429,"Linder, Wolf",AUTHOR
+849,429,"Klöti, Ulrich",AUTHOR
+850,430,"Schwarb, Thomas",AUTHOR
+851,431,"Elsener, Ernst",AUTHOR
+852,432,"Bassand, Michel",AUTHOR
+853,433,"Fend, Helmut",AUTHOR
+854,434,"Suter, Christian",AUTHOR
+855,435,"Roulet Schwab, Delphine",AUTHOR
+856,435,"Wangmo, Tenzin",AUTHOR
+857,436,"Leonhard, Tobias",AUTHOR
+858,437,"Thalmayer, Amber Gayle",AUTHOR
+859,438,"Schwarz, Beate",AUTHOR
+860,439,"Lutz, Georg",AUTHOR
+861,440,"Schwegler, Guy",AUTHOR
+862,441,"Selb, Peter",AUTHOR
+863,442,D. A. Oyeku,AUTHOR
+864,443,C. Keijzer,AUTHOR
+865,443,M. van Lange,AUTHOR
+866,443,A. van Nispen,AUTHOR
+867,443,R. Pottkamp,AUTHOR
+868,443,A. de Raaij,AUTHOR
+869,443,F. van Reijen,AUTHOR
+870,444,D. A. Oyeku,AUTHOR
+871,445,"Atria, instituut voor vrouwengeschiedenis",AUTHOR
+872,446,Kathrin Ackermann,AUTHOR
+873,446,Kathrin Ackermann,AUTHOR
+874,446,Klaus Allerbeck,AUTHOR
+875,446,Klaus Allerbeck,AUTHOR
+876,446,Jutta Allmendinger,AUTHOR
+877,446,Jutta Allmendinger,AUTHOR
+878,446,Hans-Jürgen Andreß,AUTHOR
+879,446,Hans-Jürgen Andreß,AUTHOR
+880,446,Katrin Auspurg,AUTHOR
+881,446,Katrin Auspurg,AUTHOR
+882,446,Stefan Bauernschuster,AUTHOR
+883,446,Stefan Bauernschuster,AUTHOR
+884,446,Christoph Bühler,AUTHOR
+885,446,Christoph Bühler,AUTHOR
+886,446,Wilhelm Bürklin,AUTHOR
+887,446,Wilhelm Bürklin,AUTHOR
+888,446,Sarah Carol,AUTHOR
+889,446,Sarah Carol,AUTHOR
+890,446,Andreas Diekmann,AUTHOR
+891,446,Andreas Diekmann,AUTHOR
+892,446,Hubert Feger,AUTHOR
+893,446,Hubert Feger,AUTHOR
+894,446,Detlef Fetchenhauer,AUTHOR
+895,446,Detlef Fetchenhauer,AUTHOR
+896,446,Maria-Therese Friehs,AUTHOR
+897,446,Maria-Therese Friehs,AUTHOR
+898,446,Andreas Hadjar,AUTHOR
+899,446,Andreas Hadjar,AUTHOR
+900,446,Steffen Hillmert,AUTHOR
+901,446,Steffen Hillmert,AUTHOR
+902,446,Johannes Huinink,AUTHOR
+903,446,Johannes Huinink,AUTHOR
+904,446,Marie Luise Kiefer,AUTHOR
+905,446,Marie Luise Kiefer,AUTHOR
+906,446,Frauke Kreuter,AUTHOR
+907,446,Frauke Kreuter,AUTHOR
+908,446,Steffen Kühnel,AUTHOR
+909,446,Steffen Kühnel,AUTHOR
+910,446,Karin Kurz,AUTHOR
+911,446,Karin Kurz,AUTHOR
+912,446,M. Rainer Lepsius,AUTHOR
+913,446,M. Rainer Lepsius,AUTHOR
+914,446,Stefan Liebig,AUTHOR
+915,446,Stefan Liebig,AUTHOR
+916,446,Karl Ulrich Mayer,AUTHOR
+917,446,Karl Ulrich Mayer,AUTHOR
+918,446,Heiner Meulemann,AUTHOR
+919,446,Heiner Meulemann,AUTHOR
+920,446,Walter Müller,AUTHOR
+921,446,Walter Müller,AUTHOR
+922,446,Karl Dieter Opp,AUTHOR
+923,446,Karl Dieter Opp,AUTHOR
+924,446,Franz Urban Pappi,AUTHOR
+925,446,Franz Urban Pappi,AUTHOR
+926,446,Ulrich Rosar,AUTHOR
+927,446,Ulrich Rosar,AUTHOR
+928,446,Erwin K. Scheuch,AUTHOR
+929,446,Erwin K. Scheuch,AUTHOR
+930,446,Rüdiger Schmitt-Beck,AUTHOR
+931,446,Rüdiger Schmitt-Beck,AUTHOR
+932,446,Heike Solga,AUTHOR
+933,446,Heike Solga,AUTHOR
+934,446,Markus Tausendpfund,AUTHOR
+935,446,Markus Tausendpfund,AUTHOR
+936,446,Heike Trappe,AUTHOR
+937,446,Heike Trappe,AUTHOR
+938,446,Michael Wagner,AUTHOR
+939,446,Michael Wagner,AUTHOR
+940,446,Ulrich Wagner,AUTHOR
+941,446,Ulrich Wagner,AUTHOR
+942,446,Bettina Westle,AUTHOR
+943,446,Bettina Westle,AUTHOR
+944,446,Rolf Ziegler,AUTHOR
+945,446,Rolf Ziegler,AUTHOR
+946,447,Kathrin Ackermann,AUTHOR
+947,447,Kathrin Ackermann,AUTHOR
+948,447,Klaus Allerbeck,AUTHOR
+949,447,Klaus Allerbeck,AUTHOR
+950,447,Jutta Allmendinger,AUTHOR
+951,447,Jutta Allmendinger,AUTHOR
+952,447,Hans-Jürgen Andreß,AUTHOR
+953,447,Hans-Jürgen Andreß,AUTHOR
+954,447,Katrin Auspurg,AUTHOR
+955,447,Katrin Auspurg,AUTHOR
+956,447,Stefan Bauernschuster,AUTHOR
+957,447,Stefan Bauernschuster,AUTHOR
+958,447,Christoph Bühler,AUTHOR
+959,447,Christoph Bühler,AUTHOR
+960,447,Wilhelm Bürklin,AUTHOR
+961,447,Wilhelm Bürklin,AUTHOR
+962,447,Sarah Carol,AUTHOR
+963,447,Sarah Carol,AUTHOR
+964,447,Andreas Diekmann,AUTHOR
+965,447,Andreas Diekmann,AUTHOR
+966,447,Hubert Feger,AUTHOR
+967,447,Hubert Feger,AUTHOR
+968,447,Detlef Fetchenhauer,AUTHOR
+969,447,Detlef Fetchenhauer,AUTHOR
+970,447,Maria-Therese Friehs,AUTHOR
+971,447,Maria-Therese Friehs,AUTHOR
+972,447,Andreas Hadjar,AUTHOR
+973,447,Andreas Hadjar,AUTHOR
+974,447,Steffen Hillmert,AUTHOR
+975,447,Steffen Hillmert,AUTHOR
+976,447,Johannes Huinink,AUTHOR
+977,447,Johannes Huinink,AUTHOR
+978,447,Marie Luise Kiefer,AUTHOR
+979,447,Marie Luise Kiefer,AUTHOR
+980,447,Frauke Kreuter,AUTHOR
+981,447,Frauke Kreuter,AUTHOR
+982,447,Steffen Kühnel,AUTHOR
+983,447,Steffen Kühnel,AUTHOR
+984,447,Karin Kurz,AUTHOR
+985,447,Karin Kurz,AUTHOR
+986,447,M. Rainer Lepsius,AUTHOR
+987,447,M. Rainer Lepsius,AUTHOR
+988,447,Stefan Liebig,AUTHOR
+989,447,Stefan Liebig,AUTHOR
+990,447,Karl Ulrich Mayer,AUTHOR
+991,447,Karl Ulrich Mayer,AUTHOR
+992,447,Heiner Meulemann,AUTHOR
+993,447,Heiner Meulemann,AUTHOR
+994,447,Walter Müller,AUTHOR
+995,447,Walter Müller,AUTHOR
+996,447,Karl Dieter Opp,AUTHOR
+997,447,Karl Dieter Opp,AUTHOR
+998,447,Franz Urban Pappi,AUTHOR
+999,447,Franz Urban Pappi,AUTHOR
+1000,447,Ulrich Rosar,AUTHOR
+1001,447,Ulrich Rosar,AUTHOR
+1002,447,Erwin K. Scheuch,AUTHOR
+1003,447,Erwin K. Scheuch,AUTHOR
+1004,447,Rüdiger Schmitt-Beck,AUTHOR
+1005,447,Rüdiger Schmitt-Beck,AUTHOR
+1006,447,Heike Solga,AUTHOR
+1007,447,Heike Solga,AUTHOR
+1008,447,Markus Tausendpfund,AUTHOR
+1009,447,Markus Tausendpfund,AUTHOR
+1010,447,Heike Trappe,AUTHOR
+1011,447,Heike Trappe,AUTHOR
+1012,447,Michael Wagner,AUTHOR
+1013,447,Michael Wagner,AUTHOR
+1014,447,Ulrich Wagner,AUTHOR
+1015,447,Ulrich Wagner,AUTHOR
+1016,447,Bettina Westle,AUTHOR
+1017,447,Bettina Westle,AUTHOR
+1018,447,Rolf Ziegler,AUTHOR
+1019,447,Rolf Ziegler,AUTHOR
+1020,448,Ackermann. Kathrin,AUTHOR
+1021,448,Ackermann. Kathrin,AUTHOR
+1022,448,"Allerbeck, Klaus",AUTHOR
+1023,448,"Allerbeck, Klaus",AUTHOR
+1024,448,"Allmendinger, Jutta",AUTHOR
+1025,448,"Allmendinger, Jutta",AUTHOR
+1026,448,"Andreß, Hans-Jürgen",AUTHOR
+1027,448,"Andreß, Hans-Jürgen",AUTHOR
+1028,448,"Auspurg, Katrin",AUTHOR
+1029,448,"Auspurg, Katrin",AUTHOR
+1030,448,"Bauernschuster, Stefan",AUTHOR
+1031,448,"Bauernschuster, Stefan",AUTHOR
+1032,448,"Bühler, Christoph",AUTHOR
+1033,448,"Bühler, Christoph",AUTHOR
+1034,448,"Bürklin, Wilhelm",AUTHOR
+1035,448,"Bürklin, Wilhelm",AUTHOR
+1036,448,"Carol, Sarah",AUTHOR
+1037,448,"Carol, Sarah",AUTHOR
+1038,448,"Diekmann, Andreas",AUTHOR
+1039,448,"Diekmann, Andreas",AUTHOR
+1040,448,"Feger, Hubert",AUTHOR
+1041,448,"Feger, Hubert",AUTHOR
+1042,448,"Fetchenhauer, Detlef",AUTHOR
+1043,448,"Fetchenhauer, Detlef",AUTHOR
+1044,448,"Friehs, Maria-Therese",AUTHOR
+1045,448,"Friehs, Maria-Therese",AUTHOR
+1046,448,"Hadjar, Andreas",AUTHOR
+1047,448,"Hadjar, Andreas",AUTHOR
+1048,448,"Hillmert, Steffen",AUTHOR
+1049,448,"Hillmert, Steffen",AUTHOR
+1050,448,"Huinink, Johannes",AUTHOR
+1051,448,"Huinink, Johannes",AUTHOR
+1052,448,"Kiefer, Marie Luise",AUTHOR
+1053,448,"Kiefer, Marie Luise",AUTHOR
+1054,448,"Kreuter, Frauke",AUTHOR
+1055,448,"Kreuter, Frauke",AUTHOR
+1056,448,"Kühnel, Steffen",AUTHOR
+1057,448,"Kühnel, Steffen",AUTHOR
+1058,448,"Kurz, Karin",AUTHOR
+1059,448,"Kurz, Karin",AUTHOR
+1060,448,"Lepsius, M. Rainer",AUTHOR
+1061,448,"Lepsius, M. Rainer",AUTHOR
+1062,448,"Liebig, Stefan",AUTHOR
+1063,448,"Liebig, Stefan",AUTHOR
+1064,448,"Mayer, Karl Ulrich",AUTHOR
+1065,448,"Mayer, Karl Ulrich",AUTHOR
+1066,448,"Meulemann, Heiner",AUTHOR
+1067,448,"Meulemann, Heiner",AUTHOR
+1068,448,"Müller, Walter",AUTHOR
+1069,448,"Müller, Walter",AUTHOR
+1070,448,"Opp, Karl Dieter",AUTHOR
+1071,448,"Opp, Karl Dieter",AUTHOR
+1072,448,"Pappi, Franz Urban",AUTHOR
+1073,448,"Pappi, Franz Urban",AUTHOR
+1074,448,"Rosar, Ulrich",AUTHOR
+1075,448,"Rosar, Ulrich",AUTHOR
+1076,448,"Scheuch, Erwin K.",AUTHOR
+1077,448,"Scheuch, Erwin K.",AUTHOR
+1078,448,"Schmitt-Beck, Rüdiger",AUTHOR
+1079,448,"Schmitt-Beck, Rüdiger",AUTHOR
+1080,448,"Solga, Heike",AUTHOR
+1081,448,"Solga, Heike",AUTHOR
+1082,448,"Tausendpfund, Markus",AUTHOR
+1083,448,"Tausendpfund, Markus",AUTHOR
+1084,448,"Trappe, Heike",AUTHOR
+1085,448,"Trappe, Heike",AUTHOR
+1086,448,"Wagner, Michael",AUTHOR
+1087,448,"Wagner, Michael",AUTHOR
+1088,448,"Wagner, Ulrich",AUTHOR
+1089,448,"Wagner, Ulrich",AUTHOR
+1090,448,"Westle, Bettina",AUTHOR
+1091,448,"Westle, Bettina",AUTHOR
+1092,448,"Ziegler, Rolf",AUTHOR
+1093,448,"Ziegler, Rolf",AUTHOR
+1094,449,Ackermann. Kathrin,AUTHOR
+1095,449,Ackermann. Kathrin,AUTHOR
+1096,449,"Allerbeck, Klaus",AUTHOR
+1097,449,"Allerbeck, Klaus",AUTHOR
+1098,449,"Allmendinger, Jutta",AUTHOR
+1099,449,"Allmendinger, Jutta",AUTHOR
+1100,449,"Andreß, Hans-Jürgen",AUTHOR
+1101,449,"Andreß, Hans-Jürgen",AUTHOR
+1102,449,"Auspurg, Katrin",AUTHOR
+1103,449,"Auspurg, Katrin",AUTHOR
+1104,449,"Bauernschuster, Stefan",AUTHOR
+1105,449,"Bauernschuster, Stefan",AUTHOR
+1106,449,"Bühler, Christoph",AUTHOR
+1107,449,"Bühler, Christoph",AUTHOR
+1108,449,"Bürklin, Wilhelm",AUTHOR
+1109,449,"Bürklin, Wilhelm",AUTHOR
+1110,449,"Carol, Sarah",AUTHOR
+1111,449,"Carol, Sarah",AUTHOR
+1112,449,"Diekmann, Andreas",AUTHOR
+1113,449,"Diekmann, Andreas",AUTHOR
+1114,449,"Feger, Hubert",AUTHOR
+1115,449,"Feger, Hubert",AUTHOR
+1116,449,"Fetchenhauer, Detlef",AUTHOR
+1117,449,"Fetchenhauer, Detlef",AUTHOR
+1118,449,"Friehs, Maria-Therese",AUTHOR
+1119,449,"Friehs, Maria-Therese",AUTHOR
+1120,449,"Hadjar, Andreas",AUTHOR
+1121,449,"Hadjar, Andreas",AUTHOR
+1122,449,"Hillmert, Steffen",AUTHOR
+1123,449,"Hillmert, Steffen",AUTHOR
+1124,449,"Huinink, Johannes",AUTHOR
+1125,449,"Huinink, Johannes",AUTHOR
+1126,449,"Kiefer, Marie Luise",AUTHOR
+1127,449,"Kiefer, Marie Luise",AUTHOR
+1128,449,"Kreuter, Frauke",AUTHOR
+1129,449,"Kreuter, Frauke",AUTHOR
+1130,449,"Kühnel, Steffen",AUTHOR
+1131,449,"Kühnel, Steffen",AUTHOR
+1132,449,"Kurz, Karin",AUTHOR
+1133,449,"Kurz, Karin",AUTHOR
+1134,449,"Lepsius, M. Rainer",AUTHOR
+1135,449,"Lepsius, M. Rainer",AUTHOR
+1136,449,"Liebig, Stefan",AUTHOR
+1137,449,"Liebig, Stefan",AUTHOR
+1138,449,"Mayer, Karl Ulrich",AUTHOR
+1139,449,"Mayer, Karl Ulrich",AUTHOR
+1140,449,"Meulemann, Heiner",AUTHOR
+1141,449,"Meulemann, Heiner",AUTHOR
+1142,449,"Müller, Walter",AUTHOR
+1143,449,"Müller, Walter",AUTHOR
+1144,449,"Opp, Karl Dieter",AUTHOR
+1145,449,"Opp, Karl Dieter",AUTHOR
+1146,449,"Pappi, Franz Urban",AUTHOR
+1147,449,"Pappi, Franz Urban",AUTHOR
+1148,449,"Rosar, Ulrich",AUTHOR
+1149,449,"Rosar, Ulrich",AUTHOR
+1150,449,"Scheuch, Erwin K.",AUTHOR
+1151,449,"Scheuch, Erwin K.",AUTHOR
+1152,449,"Schmitt-Beck, Rüdiger",AUTHOR
+1153,449,"Schmitt-Beck, Rüdiger",AUTHOR
+1154,449,"Solga, Heike",AUTHOR
+1155,449,"Solga, Heike",AUTHOR
+1156,449,"Tausendpfund, Markus",AUTHOR
+1157,449,"Tausendpfund, Markus",AUTHOR
+1158,449,"Trappe, Heike",AUTHOR
+1159,449,"Trappe, Heike",AUTHOR
+1160,449,"Wagner, Michael",AUTHOR
+1161,449,"Wagner, Michael",AUTHOR
+1162,449,"Wagner, Ulrich",AUTHOR
+1163,449,"Wagner, Ulrich",AUTHOR
+1164,449,"Westle, Bettina",AUTHOR
+1165,449,"Westle, Bettina",AUTHOR
+1166,449,"Ziegler, Rolf",AUTHOR
+1167,449,"Ziegler, Rolf",AUTHOR
+1168,450,"Westle, Bettina",AUTHOR
+1169,450,"Westle, Bettina",AUTHOR
+1170,450,"Auspurg, Katrin",AUTHOR
+1171,450,"Auspurg, Katrin",AUTHOR
+1172,450,"Bühler, Christoph",AUTHOR
+1173,450,"Bühler, Christoph",AUTHOR
+1174,450,"Hadjar, Andreas",AUTHOR
+1175,450,"Hadjar, Andreas",AUTHOR
+1176,450,"Hillmert, Steffen",AUTHOR
+1177,450,"Hillmert, Steffen",AUTHOR
+1178,450,"Rosar, Ulrich",AUTHOR
+1179,450,"Rosar, Ulrich",AUTHOR
+1180,450,"Wagner, Ulrich",AUTHOR
+1181,450,"Wagner, Ulrich",AUTHOR
+1182,451,"Westle, Bettina",AUTHOR
+1183,451,"Westle, Bettina",AUTHOR
+1184,451,"Auspurg, Katrin",AUTHOR
+1185,451,"Auspurg, Katrin",AUTHOR
+1186,451,"Bühler, Christoph",AUTHOR
+1187,451,"Bühler, Christoph",AUTHOR
+1188,451,"Hadjar, Andreas",AUTHOR
+1189,451,"Hadjar, Andreas",AUTHOR
+1190,451,"Hillmert, Steffen",AUTHOR
+1191,451,"Hillmert, Steffen",AUTHOR
+1192,451,"Rosar, Ulrich",AUTHOR
+1193,451,"Rosar, Ulrich",AUTHOR
+1194,451,"Wagner, Ulrich",AUTHOR
+1195,451,"Wagner, Ulrich",AUTHOR
+1196,452,"Westle, Bettina",AUTHOR
+1197,452,"Westle, Bettina",AUTHOR
+1198,452,"Auspurg, Katrin",AUTHOR
+1199,452,"Auspurg, Katrin",AUTHOR
+1200,452,"Bühler, Christoph",AUTHOR
+1201,452,"Bühler, Christoph",AUTHOR
+1202,452,"Hadjar, Andreas",AUTHOR
+1203,452,"Hadjar, Andreas",AUTHOR
+1204,452,"Hillmert, Steffen",AUTHOR
+1205,452,"Hillmert, Steffen",AUTHOR
+1206,452,"Rosar, Ulrich",AUTHOR
+1207,452,"Rosar, Ulrich",AUTHOR
+1208,452,"Wagner, Ulrich",AUTHOR
+1209,452,"Wagner, Ulrich",AUTHOR
+1210,453,"Westle, Bettina",AUTHOR
+1211,453,"Westle, Bettina",AUTHOR
+1212,453,"Auspurg, Katrin",AUTHOR
+1213,453,"Auspurg, Katrin",AUTHOR
+1214,453,"Bühler, Christoph",AUTHOR
+1215,453,"Bühler, Christoph",AUTHOR
+1216,453,"Hadjar, Andreas",AUTHOR
+1217,453,"Hadjar, Andreas",AUTHOR
+1218,453,"Hillmert, Steffen",AUTHOR
+1219,453,"Hillmert, Steffen",AUTHOR
+1220,453,"Rosar, Ulrich",AUTHOR
+1221,453,"Rosar, Ulrich",AUTHOR
+1222,453,"Wagner, Ulrich",AUTHOR
+1223,453,"Wagner, Ulrich",AUTHOR
+1224,454,Helsingin yliopisto,AUTHOR
+1225,454,Itä-Suomen yliopisto,AUTHOR
+1226,454,Lapin yliopisto,AUTHOR
+1227,454,University of Helsinki,AUTHOR
+1228,454,University of Eastern Finland,AUTHOR
+1229,454,University of Lapland,AUTHOR
+1230,455,"Hiitola, Joa",AUTHOR
+1231,455,"Leinonen, Johanna",AUTHOR
+1232,455,"Karimi, Zeinab",AUTHOR
+1233,455,"Hiitola, Joa",AUTHOR
+1234,455,"Leinonen, Johanna",AUTHOR
+1235,455,"Karimi, Zeinab",AUTHOR
+1236,456,"Haara, Paula",AUTHOR
+1237,456,"Reunanen, Esa",AUTHOR
+1238,456,"Haara, Paula",AUTHOR
+1239,456,"Reunanen, Esa",AUTHOR
+1240,457,Tampere Praksis,AUTHOR
+1241,457,Tampere Praksis Project,AUTHOR
+1242,458,"Santaoja, Minna",AUTHOR
+1243,458,"Santaoja, Minna",AUTHOR
+1244,459,"Santaoja, Minna",AUTHOR
+1245,459,"Santaoja, Minna",AUTHOR
+1246,460,"Torsti, Pilvi",AUTHOR
+1247,460,"van den Berg, Marko",AUTHOR
+1248,460,"Torsti, Pilvi",AUTHOR
+1249,460,"van den Berg, Marko",AUTHOR
+1250,461,"Petko, Dominik",AUTHOR
+1251,461,"Barras, Jean-Luc",AUTHOR
+1252,462,"Selb, Peter",AUTHOR
+1253,463,"Erzinger, Andrea Barbara",AUTHOR
+1254,463,"Hryvko, Antonina",AUTHOR
+1255,464,"Elcheroth, Guy",AUTHOR
+1256,464,"Ndayisaba, Leonidas",AUTHOR
+1257,464,"Usoof-Thowfeek, Ramila",AUTHOR
+1258,465,"Maurer, Markus",AUTHOR
+1259,466,"Wegel, Melanie",AUTHOR
+1260,467,"Metag, Julia",AUTHOR
+1261,467,"Schäfer, Mike S.",AUTHOR
+1262,468,"Udris, Ivars",AUTHOR
+1263,469,"Elcheroth, Guy",AUTHOR
+1264,469,"Ndayisaba, Leonidas",AUTHOR
+1265,469,"Usoof-Thowfeek, Ramila",AUTHOR
+1266,470,"Walter-Busch, Emil H.",AUTHOR
+1267,471,"Elcheroth, Guy",AUTHOR
+1268,471,"Ndayisaba, Leonidas",AUTHOR
+1269,471,"Usoof-Thowfeek, Ramila",AUTHOR
+1270,472,"Elsener, Ernst",AUTHOR
+1271,473,"Walter-Busch, Emil H.",AUTHOR
+1272,474,"Sahli Lozano, Caroline",AUTHOR
+1273,474,"Bauer, Catherine Eve",AUTHOR
+1274,475,"Schmid, Hansjörg",AUTHOR
+1275,476,"Walter-Busch, Emil H.",AUTHOR
+1276,477,"Freisler-Mühlemann, Daniela",AUTHOR
+1277,477,"Hascher, Tina",AUTHOR
+1278,478,"Elcheroth, Guy",AUTHOR
+1279,478,"Ndayisaba, Leonidas",AUTHOR
+1280,478,"Usoof-Thowfeek, Ramila",AUTHOR
+1281,479,"Bauer, Itta",AUTHOR
+1282,479,"Landolt, Sara",AUTHOR
+1283,480,"Ehrler, Franziska",AUTHOR
+1284,480,"Lebert, Florence",AUTHOR
+1285,481,"Statham, Paul",AUTHOR
+1286,481,"Chabanet, Didier",AUTHOR
+1287,481,"Della Porta, Donatella",AUTHOR
+1288,481,"Lahusen, Christian",AUTHOR
+1289,481,"Linders, Annulla",AUTHOR
+1290,481,"Giugni, Marco",AUTHOR
+1291,482,"Tillmann, Robin",AUTHOR
+1292,483,"Voorpostel, Marieke",AUTHOR
+1293,484,"Gmel, Gerhard",AUTHOR
+1294,485,"Oesch, Daniel",AUTHOR
+1295,485,"Bonoli, Giuliano",AUTHOR
+1296,486,"Elcheroth, Guy",AUTHOR
+1297,486,"Ndayisaba, Leonidas",AUTHOR
+1298,486,"Usoof-Thowfeek, Ramila",AUTHOR
+1299,487,"Walter-Busch, Emil H.",AUTHOR
+1300,488,"Elcheroth, Guy",AUTHOR
+1301,488,"Ndayisaba, Leonidas",AUTHOR
+1302,488,"Usoof-Thowfeek, Ramila",AUTHOR
+1303,489,"Thalmayer, Amber Gayle",AUTHOR
+1304,490,"Roulet Schwab, Delphine",AUTHOR
+1305,490,"Wangmo, Tenzin",AUTHOR
+1306,491,"Chan, Edward K.L.",AUTHOR
+1307,492,"Giugni, Marco",AUTHOR
+1308,492,"Della Porta, Donatella",AUTHOR
+1309,492,"Rootes, Christopher",AUTHOR
+1310,492,"Rucht, Dieter",AUTHOR
+1311,492,"Pianta, Mario",AUTHOR
+1312,492,"Sommier, Isabelle",AUTHOR
+1313,492,"Jiménez, Manuel",AUTHOR
+1314,493,"Znoj, Hansjörg",AUTHOR
+1315,494,"Selb, Peter",AUTHOR
+1316,495,"Götzö, Monika",AUTHOR
+1317,495,"Wigger, Annegret",AUTHOR
+1318,496,"Schwarz, Beate",AUTHOR
+1319,497,"Busnel, Catherine",AUTHOR
+1320,497,"Ludwig, Catherine",AUTHOR
+1321,498,"Artho, Jürg",AUTHOR
+1322,499,"Elcheroth, Guy",AUTHOR
+1323,499,"Ndayisaba, Leonidas",AUTHOR
+1324,499,"Usoof-Thowfeek, Ramila",AUTHOR
+1325,500,"Lutz, Georg",AUTHOR
+1326,501,"Metag, Julia",AUTHOR
+1327,502,"Junod, Valérie",AUTHOR
+1328,503,"Baggio, Stéphanie",AUTHOR
+1329,503,"Iglesias, Katia",AUTHOR
+1330,504,"Kellerhals, Jean",AUTHOR
+1331,504,"Levy, René",AUTHOR
+1332,504,"Widmer, Eric",AUTHOR
+1333,505,"Elger, Bernice",AUTHOR
+1334,506,"Maurer, Markus",AUTHOR
+1335,507,"Wydler, Hans",AUTHOR
+1336,508,"Elcheroth, Guy",AUTHOR
+1337,508,"Ndayisaba, Leonidas",AUTHOR
+1338,508,"Usoof-Thowfeek, Ramila",AUTHOR
+1339,509,"Maurer, Markus",AUTHOR
+1340,510,"Elcheroth, Guy",AUTHOR
+1341,510,"Ndayisaba, Leonidas",AUTHOR
+1342,510,"Usoof-Thowfeek, Ramila",AUTHOR
+1343,511,"Erzinger, Andrea Barbara",AUTHOR
+1344,511,"Hryvko, Antonina",AUTHOR
+1345,512,"Elsener, Ernst",AUTHOR
+1346,513,"Urio, Paolo",AUTHOR
+1347,514,"Chan, Edward K.L.",AUTHOR
+1348,515,"Hess, Kurt",AUTHOR
+1349,515,"Smit, Robbert",AUTHOR
+1350,516,"Lutz, Georg",AUTHOR
+1351,517,"Burton, Patrick",AUTHOR
+1352,518,"Elcheroth, Guy",AUTHOR
+1353,518,"Ndayisaba, Leonidas",AUTHOR
+1354,518,"Usoof-Thowfeek, Ramila",AUTHOR
+1355,519,"Longchamp, Philippe",AUTHOR
+1356,520,"Junod, Valérie",AUTHOR
+1357,521,"Elcheroth, Guy",AUTHOR
+1358,521,"Ndayisaba, Leonidas",AUTHOR
+1359,521,"Usoof-Thowfeek, Ramila",AUTHOR
+1360,522,"Staack, Benedict",AUTHOR
+1361,522,"Staack, Benedict",AUTHOR
+1362,523,"German Internet Panel, Universität Mannheim",AUTHOR
+1363,523,"German Internet Panel, Universität Mannheim",AUTHOR
+1364,524,"German Internet Panel, Universität Mannheim",AUTHOR
+1365,524,"German Internet Panel, Universität Mannheim",AUTHOR
+1366,525,"German Internet Panel, Universität Mannheim",AUTHOR
+1367,525,"German Internet Panel, Universität Mannheim",AUTHOR
+1368,526,"German Internet Panel, Universität Mannheim",AUTHOR
+1369,526,"German Internet Panel, Universität Mannheim",AUTHOR
+1370,527,"German Internet Panel, Universität Mannheim",AUTHOR
+1371,527,"German Internet Panel, Universität Mannheim",AUTHOR
+1372,528,"German Internet Panel, Universität Mannheim",AUTHOR
+1373,528,"German Internet Panel, Universität Mannheim",AUTHOR
+1374,529,"German Internet Panel, Universität Mannheim",AUTHOR
+1375,529,"German Internet Panel, Universität Mannheim",AUTHOR
+1376,530,"German Internet Panel, Universität Mannheim",AUTHOR
+1377,530,"German Internet Panel, Universität Mannheim",AUTHOR
+1378,531,"German Internet Panel, Universität Mannheim",AUTHOR
+1379,531,"German Internet Panel, Universität Mannheim",AUTHOR
+1380,532,"European Commission, Brussels; Directorate General Communication, COMM.A.3 ‘Media Monitoring and Eurobarometer´",AUTHOR
+1381,532,"European Commission, Brussels; Directorate General Communication, COMM.A.3 ‘Media Monitoring and Eurobarometer´",AUTHOR
+1382,533,"German Internet Panel, Universität Mannheim",AUTHOR
+1383,533,"German Internet Panel, Universität Mannheim",AUTHOR
+1384,534,"German Internet Panel, Universität Mannheim",AUTHOR
+1385,534,"German Internet Panel, Universität Mannheim",AUTHOR
+1386,535,"European Commission, Brussels; Directorate General Communication, COMM.A.3 ‘Media Monitoring and Eurobarometer’",AUTHOR
+1387,535,"European Commission, Brussels; Directorate General Communication, COMM.A.3 ‘Media Monitoring and Eurobarometer’",AUTHOR
+1388,536,"Vaskovics, Laszlo A.",AUTHOR
+1389,536,"Vaskovics, Laszlo A.",AUTHOR
+1390,536,"Rupp, Marina",AUTHOR
+1391,536,"Rupp, Marina",AUTHOR
+1392,537,"Castillo, Pilar del",AUTHOR
+1393,537,"Castillo, Pilar del",AUTHOR
+1394,537,"Eijk, Cees van der",AUTHOR
+1395,537,"Eijk, Cees van der",AUTHOR
+1396,537,"Franklin, Mark",AUTHOR
+1397,537,"Franklin, Mark",AUTHOR
+1398,537,"Katz, Richard",AUTHOR
+1399,537,"Katz, Richard",AUTHOR
+1400,537,"Mannheimer, Renato",AUTHOR
+1401,537,"Mannheimer, Renato",AUTHOR
+1402,537,"Marsh, Michael",AUTHOR
+1403,537,"Marsh, Michael",AUTHOR
+1404,537,"Norris, Pippa",AUTHOR
+1405,537,"Norris, Pippa",AUTHOR
+1406,537,"Oppenhuis, Erik",AUTHOR
+1407,537,"Oppenhuis, Erik",AUTHOR
+1408,537,"Schmitt, Hermann",AUTHOR
+1409,537,"Schmitt, Hermann",AUTHOR
+1410,537,"Thomassen, Jacques",AUTHOR
+1411,537,"Thomassen, Jacques",AUTHOR
+1412,537,"Wessels, Bernard",AUTHOR
+1413,537,"Wessels, Bernard",AUTHOR
+1414,537,"Ysmal, Colette",AUTHOR
+1415,537,"Ysmal, Colette",AUTHOR
+1416,538,"Kokko, Katja",AUTHOR
+1417,538,"Kokko, Katja",AUTHOR
+1418,539,"Kokko, Katja",AUTHOR
+1419,539,"Kokko, Katja",AUTHOR
+1420,540,"Kokko, Katja",AUTHOR
+1421,540,"Kokko, Katja",AUTHOR
+1422,541,"Kokko, Katja",AUTHOR
+1423,541,"Kokko, Katja",AUTHOR
+1424,542,"Sundbäck, Liselott",AUTHOR
+1425,542,"Sundbäck, Liselott",AUTHOR
+1426,543,"Auranen, Tiina",AUTHOR
+1427,543,"Karhulahti, Veli-Matti",AUTHOR
+1428,543,"Saariniemi, Sara",AUTHOR
+1429,543,"Turtiainen, Emilia",AUTHOR
+1430,543,"Valtonen, Venla",AUTHOR
+1431,543,"Kauraoja, Valtteri",AUTHOR
+1432,543,"Nerg, Henri",AUTHOR
+1433,543,"Siidoroff, Aleksi",AUTHOR
+1434,543,"Malinen, Ville",AUTHOR
+1435,543,"Munukka, Pauliina",AUTHOR
+1436,543,"Siutila, Miia",AUTHOR
+1437,543,"Auranen, Tiina",AUTHOR
+1438,543,"Karhulahti, Veli-Matti",AUTHOR
+1439,543,"Saariniemi, Sara",AUTHOR
+1440,543,"Turtiainen, Emilia",AUTHOR
+1441,543,"Valtonen, Venla",AUTHOR
+1442,543,"Kauraoja, Valtteri",AUTHOR
+1443,543,"Nerg, Henri",AUTHOR
+1444,543,"Siidoroff, Aleksi",AUTHOR
+1445,543,"Malinen, Ville",AUTHOR
+1446,543,"Munukka, Pauliina",AUTHOR
+1447,543,"Siutila, Miia",AUTHOR
+1448,544,"Kalmanlehto, Johan",AUTHOR
+1449,544,"Kalmanlehto, Johan",AUTHOR
+1450,545,Lapsiasiavaltuutetun toimisto,AUTHOR
+1451,545,Office of Ombudsman for Children,AUTHOR
+1452,546,"Niskanen, Hanna",AUTHOR
+1453,546,"Niskanen, Hanna",AUTHOR
+1454,547,"Puuronen, Anne",AUTHOR
+1455,547,"Puuronen, Anne",AUTHOR
+1456,548,"Puuronen, Anne",AUTHOR
+1457,548,"Tuominen, Tuula",AUTHOR
+1458,548,"Lindroos, Sanni",AUTHOR
+1459,548,"Nyman, Katrina",AUTHOR
+1460,548,"Taipale, Mikko",AUTHOR
+1461,548,"Puuronen, Anne",AUTHOR
+1462,548,"Tuominen, Tuula",AUTHOR
+1463,548,"Lindroos, Sanni",AUTHOR
+1464,548,"Nyman, Katrina",AUTHOR
+1465,548,"Taipale, Mikko",AUTHOR
+1466,549,"Puuronen, Anne",AUTHOR
+1467,549,"Tuominen, Tuula",AUTHOR
+1468,549,"Nyman, Katrina",AUTHOR
+1469,549,"Lindroos, Sanni",AUTHOR
+1470,549,"Taipale, Mikko",AUTHOR
+1471,549,"Puuronen, Anne",AUTHOR
+1472,549,"Tuominen, Tuula",AUTHOR
+1473,549,"Nyman, Katrina",AUTHOR
+1474,549,"Lindroos, Sanni",AUTHOR
+1475,549,"Taipale, Mikko",AUTHOR
+1476,550,"Nousiainen, Marko",AUTHOR
+1477,550,"Sillanpää, Julia",AUTHOR
+1478,550,"Nousiainen, Marko",AUTHOR
+1479,550,"Sillanpää, Julia",AUTHOR
+1480,551,"Mankki, Ville",AUTHOR
+1481,551,"Mankki, Ville",AUTHOR
+1482,552,"Mankki, Ville",AUTHOR
+1483,552,"Mankki, Ville",AUTHOR
+1484,553,"Laes, Tuulikki",AUTHOR
+1485,553,"Koivisto, Taru-Anneli",AUTHOR
+1486,553,"Saether, Eva",AUTHOR
+1487,553,"Laes, Tuulikki",AUTHOR
+1488,553,"Koivisto, Taru-Anneli",AUTHOR
+1489,553,"Saether, Eva",AUTHOR
+1490,554,"Peltola, Marja",AUTHOR
+1491,554,"Kosunen, Sonja",AUTHOR
+1492,554,"Luoma, Tiina",AUTHOR
+1493,554,"Oittinen, Riikka",AUTHOR
+1494,554,"Huilla, Heidi",AUTHOR
+1495,554,"Juvonen, Sara",AUTHOR
+1496,554,"Peltola, Marja",AUTHOR
+1497,554,"Kosunen, Sonja",AUTHOR
+1498,554,"Luoma, Tiina",AUTHOR
+1499,554,"Oittinen, Riikka",AUTHOR
+1500,554,"Huilla, Heidi",AUTHOR
+1501,554,"Juvonen, Sara",AUTHOR
+1502,555,"Sandberg, Birgitta",AUTHOR
+1503,555,"Hurmerinta, Leila",AUTHOR
+1504,555,"Sandberg, Birgitta",AUTHOR
+1505,555,"Hurmerinta, Leila",AUTHOR
+1506,556,"Ritola, Salli-Sofia",AUTHOR
+1507,556,"Ritola, Salli-Sofia",AUTHOR
+1508,557,"Hyvönen, Henri",AUTHOR
+1509,557,"Hyvönen, Henri",AUTHOR
+1510,558,"Viita-aho, Mari",AUTHOR
+1511,558,"Marti, Aleksi",AUTHOR
+1512,558,"Viita-aho, Mari 0000-0002-3796-5004",AUTHOR
+1513,558,"Marti, Aleksi",AUTHOR
+1514,559,"Viita-aho, Mari",AUTHOR
+1515,559,"Kortti, Jukka",AUTHOR
+1516,559,"Viita-aho, Mari 0000-0002-3796-5004",AUTHOR
+1517,559,"Kortti, Jukka 0000-0003-0086-4143",AUTHOR
+1518,560,"Matres, Inés",AUTHOR
+1519,560,"Matres, Inés",AUTHOR
+1520,561,"Alakoski, Riikka",AUTHOR
+1521,561,"Alakoski, Riikka",AUTHOR
+1522,562,Lastensuojelun keskusliitto,AUTHOR
+1523,562,Central Union for Child Welfare,AUTHOR
+1524,563,Lapsiasiavaltuutetun toimisto,AUTHOR
+1525,563,Office of Ombudsman for Children,AUTHOR
+1526,564,Suomen ympäristökeskus,AUTHOR
+1527,564,Finnish Environment Institute,AUTHOR
+1528,565,"Nousiainen, Marko",AUTHOR
+1529,565,"Nousiainen, Marko",AUTHOR
+1530,566,Valtioneuvoston kanslia. VNTEAS Afganistan -tutkimuskonsortio,AUTHOR
+1531,566,Prime Minister's Office. VNTEAS Afghanistan - Research Consortium,AUTHOR
+1532,567,"Hytönen, Kirsi-Maria",AUTHOR
+1533,567,"Markkola, Pirjo",AUTHOR
+1534,567,"Kuronen, Marjo",AUTHOR
+1535,567,"Korkiakangas, Pirjo",AUTHOR
+1536,567,"Oksanen, Johanna",AUTHOR
+1537,567,"Malinen, Antti",AUTHOR
+1538,567,"Salenius, Paula",AUTHOR
+1539,567,"Junkala, Pekka",AUTHOR
+1540,567,"Haikari, Janne",AUTHOR
+1541,567,"Tawah, Sanna",AUTHOR
+1542,567,"Hytönen, Kirsi-Maria",AUTHOR
+1543,567,"Markkola, Pirjo",AUTHOR
+1544,567,"Kuronen, Marjo",AUTHOR
+1545,567,"Korkiakangas, Pirjo",AUTHOR
+1546,567,"Oksanen, Johanna",AUTHOR
+1547,567,"Malinen, Antti",AUTHOR
+1548,567,"Salenius, Paula",AUTHOR
+1549,567,"Junkala, Pekka",AUTHOR
+1550,567,"Haikari, Janne",AUTHOR
+1551,567,"Tawah, Sanna",AUTHOR
+1552,568,"Hynynen, Kaisa",AUTHOR
+1553,568,"Wallin, Antti",AUTHOR
+1554,568,"Häikiö, Liisa",AUTHOR
+1555,568,"Hynynen, Kaisa",AUTHOR
+1556,568,"Wallin, Antti",AUTHOR
+1557,568,"Häikiö, Liisa",AUTHOR
+1558,569,"Moberg, Joona",AUTHOR
+1559,569,"Moberg, Joona",AUTHOR
+1560,570,"Karhulahti, Veli-Matti",AUTHOR
+1561,570,"Siutila, Miia",AUTHOR
+1562,570,"Kauraoja, Valtteri",AUTHOR
+1563,570,"Malinen, Ville",AUTHOR
+1564,570,"Karhulahti, Veli-Matti",AUTHOR
+1565,570,"Siutila, Miia",AUTHOR
+1566,570,"Kauraoja, Valtteri",AUTHOR
+1567,570,"Malinen, Ville",AUTHOR
+1568,571,"Lammi-Taskula, Johanna",AUTHOR
+1569,571,"Närvi, Johanna",AUTHOR
+1570,571,"Alasuutari, Maarit",AUTHOR
+1571,571,"Kuukka, Anu",AUTHOR
+1572,571,"Ruutiainen, Ville",AUTHOR
+1573,571,"Siippainen, Anna",AUTHOR
+1574,571,"Terävä, Johanna",AUTHOR
+1575,571,"Eerola, Petteri",AUTHOR
+1576,571,"Eronen, Eija",AUTHOR
+1577,571,"Fjällström, Salla",AUTHOR
+1578,571,"Karila, Kirsti",AUTHOR
+1579,571,"Paananen, Maiju",AUTHOR
+1580,571,"Repo, Katja",AUTHOR
+1581,571,"Lammi-Taskula, Johanna",AUTHOR
+1582,571,"Närvi, Johanna",AUTHOR
+1583,571,"Alasuutari, Maarit",AUTHOR
+1584,571,"Kuukka, Anu",AUTHOR
+1585,571,"Ruutiainen, Ville",AUTHOR
+1586,571,"Siippainen, Anna",AUTHOR
+1587,571,"Terävä, Johanna",AUTHOR
+1588,571,"Eerola, Petteri",AUTHOR
+1589,571,"Eronen, Eija",AUTHOR
+1590,571,"Fjällström, Salla",AUTHOR
+1591,571,"Karila, Kirsti",AUTHOR
+1592,571,"Paananen, Maiju",AUTHOR
+1593,571,"Repo, Katja",AUTHOR
+1594,572,"Lammi-Taskula, Johanna",AUTHOR
+1595,572,"Närvi, Johanna",AUTHOR
+1596,572,"Alasuutari, Maarit",AUTHOR
+1597,572,"Kuukka, Anu",AUTHOR
+1598,572,"Ruutiainen, Ville",AUTHOR
+1599,572,"Siippainen, Anna",AUTHOR
+1600,572,"Terävä, Johanna",AUTHOR
+1601,572,"Eerola, Petteri",AUTHOR
+1602,572,"Fjällström, Salla",AUTHOR
+1603,572,"Karila, Kirsti",AUTHOR
+1604,572,"Repo, Katja",AUTHOR
+1605,572,"Lammi-Taskula, Johanna",AUTHOR
+1606,572,"Närvi, Johanna",AUTHOR
+1607,572,"Alasuutari, Maarit",AUTHOR
+1608,572,"Kuukka, Anu",AUTHOR
+1609,572,"Ruutiainen, Ville",AUTHOR
+1610,572,"Siippainen, Anna",AUTHOR
+1611,572,"Terävä, Johanna",AUTHOR
+1612,572,"Eerola, Petteri",AUTHOR
+1613,572,"Fjällström, Salla",AUTHOR
+1614,572,"Karila, Kirsti",AUTHOR
+1615,572,"Repo, Katja",AUTHOR
+1616,573,"Alasuutari, Maarit",AUTHOR
+1617,573,"Karila, Kirsti",AUTHOR
+1618,573,"Mäkinen, Eleanora",AUTHOR
+1619,573,"Paananen, Maiju",AUTHOR
+1620,573,"Repo, Katja",AUTHOR
+1621,573,"Hynynen, Kaisa",AUTHOR
+1622,573,"Alasuutari, Maarit",AUTHOR
+1623,573,"Karila, Kirsti",AUTHOR
+1624,573,"Mäkinen, Eleanora",AUTHOR
+1625,573,"Paananen, Maiju",AUTHOR
+1626,573,"Repo, Katja",AUTHOR
+1627,573,"Hynynen, Kaisa",AUTHOR
+1628,574,"Luomanen, Jari",AUTHOR
+1629,574,"Pirskanen, Henna",AUTHOR
+1630,574,"Alasuutari, Pertti",AUTHOR
+1631,574,"Luomanen, Jari",AUTHOR
+1632,574,"Pirskanen, Henna",AUTHOR
+1633,574,"Alasuutari, Pertti",AUTHOR
+1634,575,"Mankki, Ville",AUTHOR
+1635,575,"Mankki, Ville",AUTHOR
+1636,576,"Castrén, Sari",AUTHOR
+1637,576,"Hylkiä, Krista",AUTHOR
+1638,576,"Peltonen, Aino",AUTHOR
+1639,576,"Karhulahti, Veli-Matti",AUTHOR
+1640,576,"Castrén, Sari",AUTHOR
+1641,576,"Hylkiä, Krista",AUTHOR
+1642,576,"Peltonen, Aino",AUTHOR
+1643,576,"Karhulahti, Veli-Matti",AUTHOR
+1644,577,"Haikkola, Lotta",AUTHOR
+1645,577,"Uusikangas, Silja",AUTHOR
+1646,577,"Haikkola, Lotta",AUTHOR
+1647,577,"Uusikangas, Silja",AUTHOR
+1648,578,"Vähätalo, Lauri",AUTHOR
+1649,578,"Siukola, Anna",AUTHOR
+1650,578,"Vähätalo, Lauri",AUTHOR
+1651,578,"Siukola, Anna",AUTHOR
+1652,579,"Tormulainen, Aino",AUTHOR
+1653,579,"Tormulainen, Aino",AUTHOR
+1654,580,"Vähätalo, Lauri",AUTHOR
+1655,580,"Siukola, Anna",AUTHOR
+1656,580,"Vähätalo, Lauri",AUTHOR
+1657,580,"Siukola, Anna",AUTHOR
+1658,581,Nordic Centre of Excellence on Women in Technology Driven Careers (NORDWIT),AUTHOR
+1659,581,Nordic Centre of Excellence on Women in Technology Driven Careers (NORDWIT),AUTHOR
+1660,582,"Siutila, Miia",AUTHOR
+1661,582,"Karhulahti, Veli-Matti",AUTHOR
+1662,582,"Päivinen, Antti",AUTHOR
+1663,582,"Perttu, Soli",AUTHOR
+1664,582,"Laitinen, Tanja",AUTHOR
+1665,582,"Korhonen, Venla",AUTHOR
+1666,582,"Siutila, Miia",AUTHOR
+1667,582,"Karhulahti, Veli-Matti",AUTHOR
+1668,582,"Päivinen, Antti",AUTHOR
+1669,582,"Perttu, Soli",AUTHOR
+1670,582,"Laitinen, Tanja",AUTHOR
+1671,582,"Korhonen, Venla",AUTHOR
+1672,583,"Siutila, Miia",AUTHOR
+1673,583,"Karhulahti, Veli-Matti",AUTHOR
+1674,583,"Korhonen, Venla",AUTHOR
+1675,583,"Laitinen, Tanja",AUTHOR
+1676,583,"Siutila, Miia",AUTHOR
+1677,583,"Karhulahti, Veli-Matti",AUTHOR
+1678,583,"Korhonen, Venla",AUTHOR
+1679,583,"Laitinen, Tanja",AUTHOR
+1680,584,The Finnish Research Infrastructure for Public Opinion (FIRIPO),AUTHOR
+1681,584,The Finnish Research Infrastructure for Public Opinion (FIRIPO),AUTHOR
+1682,585,"Jousmäki, Henna",AUTHOR
+1683,585,"Hautamäki, Tiina",AUTHOR
+1684,585,"Kinossalo, Maiju",AUTHOR
+1685,585,"Jousmäki, Henna",AUTHOR
+1686,585,"Hautamäki, Tiina",AUTHOR
+1687,585,"Kinossalo, Maiju",AUTHOR
+1688,586,"Alho, Joel",AUTHOR
+1689,586,"Mankinen, Katja",AUTHOR
+1690,586,"Alho, Joel",AUTHOR
+1691,586,"Mankinen, Katja",AUTHOR
+1692,587,"Hoppania, Hanna-Kaisa",AUTHOR
+1693,587,"Vilkko, Anni",AUTHOR
+1694,587,"Hoppania, Hanna-Kaisa",AUTHOR
+1695,587,"Vilkko, Anni",AUTHOR
+1696,588,Avoimen tieteen ja tutkimuksen kansallisen koordinaation sihteeristö (Tieteellisten seurain valtuuskunta),AUTHOR
+1697,588,The National Open Science and Research Coordination (The Federation of Finnish Learned Societies),AUTHOR
+1698,589,"Koivunen, Tuija",AUTHOR
+1699,589,"Koivunen, Tuija",AUTHOR
+1700,590,"Ikonen, Hanna-Mari",AUTHOR
+1701,590,"Ikonen, Hanna-Mari",AUTHOR
+1702,591,"Koivisto, Taru",AUTHOR
+1703,591,"Koivisto, Taru",AUTHOR
+1704,592,"Ritola, Emmi",AUTHOR
+1705,592,"Ritola, Emmi",AUTHOR
+1706,593,"Peltoniemi, Johanna",AUTHOR
+1707,593,"Weide, Marjukka",AUTHOR
+1708,593,"Nemcok, Miroslav",AUTHOR
+1709,593,"Wass, Hanna",AUTHOR
+1710,593,"Peltoniemi, Johanna",AUTHOR
+1711,593,"Weide, Marjukka",AUTHOR
+1712,593,"Nemcok, Miroslav",AUTHOR
+1713,593,"Wass, Hanna",AUTHOR
+1714,594,"Pietilä, Meri",AUTHOR
+1715,594,"Saurio, Kaisa",AUTHOR
+1716,594,"Hankonen, Nelli",AUTHOR
+1717,594,"Pietilä, Meri",AUTHOR
+1718,594,"Saurio, Kaisa",AUTHOR
+1719,594,"Hankonen, Nelli",AUTHOR
+1720,595,"Kasanen, Maria",AUTHOR
+1721,595,"Kitinoja, Helli",AUTHOR
+1722,595,"Nissinen, Kaija",AUTHOR
+1723,595,"Kasanen, Maria",AUTHOR
+1724,595,"Kitinoja, Helli",AUTHOR
+1725,595,"Nissinen, Kaija",AUTHOR
+1726,596,"Karhulahti, Veli-Matti",AUTHOR
+1727,596,"Nerg, Henri",AUTHOR
+1728,596,"Päivinen, Antti",AUTHOR
+1729,596,"Karhulahti, Veli-Matti",AUTHOR
+1730,596,"Nerg, Henri",AUTHOR
+1731,596,"Päivinen, Antti",AUTHOR
+1732,597,"Malinen, Kaisa",AUTHOR
+1733,597,"Moilanen, Johnanna",AUTHOR
+1734,597,"Punna, Mari",AUTHOR
+1735,597,"Kiili, Johanna",AUTHOR
+1736,597,"Svenlin, Anu-Riina",AUTHOR
+1737,597,"Malinen, Kaisa",AUTHOR
+1738,597,"Moilanen, Johnanna",AUTHOR
+1739,597,"Punna, Mari",AUTHOR
+1740,597,"Kiili, Johanna",AUTHOR
+1741,597,"Svenlin, Anu-Riina",AUTHOR
+1742,598,"Parkkinen, Tiina",AUTHOR
+1743,598,"Parkkinen, Tiina",AUTHOR
+1744,599,"Reunanen, Esa",AUTHOR
+1745,599,"Kunelius, Risto",AUTHOR
+1746,599,"Reunanen, Esa",AUTHOR
+1747,599,"Kunelius, Risto",AUTHOR
+1748,600,"Hynnä-Granberg, Kaisu",AUTHOR
+1749,600,"Hynnä-Granberg, Kaisu",AUTHOR
+1750,601,Humanistinen ammattikorkeakoulu,AUTHOR
+1751,601,HUMAK University of Applied Sciences,AUTHOR
+1752,602,Humanistinen ammattikorkeakoulu (HUMAK),AUTHOR
+1753,602,"Hakoluoto, Tanja",AUTHOR
+1754,602,HUMAK University of Applied Sciences,AUTHOR
+1755,602,"Hakoluoto, Tanja",AUTHOR
+1756,603,"Hart, Linda",AUTHOR
+1757,603,"Hart, Linda",AUTHOR
+1758,604,"Ruokonen, Mirka",AUTHOR
+1759,604,"Ruokonen, Mirka",AUTHOR
+1760,605,Kulttuuripolitiikan tutkimuskeskus Cupore,AUTHOR
+1761,605,Center for Cultural Policy Research,AUTHOR
+1762,606,"Tammisalo, Venla",AUTHOR
+1763,606,"Tammisalo, Venla",AUTHOR
+1764,607,"Wessman, Anna",AUTHOR
+1765,607,"Wessman, Anna",AUTHOR
+1766,608,"Wessman, Anna",AUTHOR
+1767,608,"Wessman, Anna",AUTHOR
+1768,609,"Heikkilä, Riie",AUTHOR
+1769,609,"Heikkilä, Riie",AUTHOR
+1770,610,Itä-Suomen yliopisto. Yhteiskuntatieteiden laitos,AUTHOR
+1771,610,University of Eastern Finland. Department of Social Sciences,AUTHOR
+1772,611,"Grönlund, Kimmo",AUTHOR
+1773,611,"Borg, Sami",AUTHOR
+1774,611,"Grönlund, Kimmo",AUTHOR
+1775,611,"Borg, Sami",AUTHOR
+1776,612,Jyväskylän yliopisto. Koulutuksen tutkimuslaitos,AUTHOR
+1777,612,University of Jyväskylä. Finnish Institute for Educational Research,AUTHOR
+1778,613,Jyväskylän yliopisto. Koulutuksen tutkimuslaitos,AUTHOR
+1779,613,University of Jyväskylä. Finnish Institute for Educational Research,AUTHOR
+1780,614,"Hankonen, Nelli",AUTHOR
+1781,614,"Hankonen, Nelli",AUTHOR
+1782,615,"Kuusipalo, Paula",AUTHOR
+1783,615,"Kinossalo, Maiju",AUTHOR
+1784,615,"Sihto, Jaakko",AUTHOR
+1785,615,"Tiilikka, Tiina",AUTHOR
+1786,615,"Raziano, Alissia",AUTHOR
+1787,615,"Drößler, Thomas",AUTHOR
+1788,615,"Rohr, Margund K.",AUTHOR
+1789,615,"Wächter, Franziska",AUTHOR
+1790,615,"Amadasi, Sara",AUTHOR
+1791,615,"Ballestri, Chiara",AUTHOR
+1792,615,"Baraldi, Claudio",AUTHOR
+1793,615,"Struzik, Justyna",AUTHOR
+1794,615,"Slusarczyk, Magdalena",AUTHOR
+1795,615,"Warat, Marta",AUTHOR
+1796,615,"Righard, Erica",AUTHOR
+1797,615,"Harju, Anne",AUTHOR
+1798,615,"Svensson Källberg, Petra",AUTHOR
+1799,615,"Frisch, Morten",AUTHOR
+1800,615,"Farini, Federico",AUTHOR
+1801,615,"Murray, Jane",AUTHOR
+1802,615,"Woodbridge-Dodd, Kim",AUTHOR
+1803,615,"Prokopiou, Eva",AUTHOR
+1804,615,"Scollan, Angela",AUTHOR
+1805,615,"Kuusipalo, Paula",AUTHOR
+1806,615,"Kinossalo, Maiju",AUTHOR
+1807,615,"Sihto, Jaakko",AUTHOR
+1808,615,"Tiilikka, Tiina",AUTHOR
+1809,615,"Raziano, Alissia",AUTHOR
+1810,615,"Drößler, Thomas",AUTHOR
+1811,615,"Rohr, Margund K.",AUTHOR
+1812,615,"Wächter, Franziska",AUTHOR
+1813,615,"Amadasi, Sara",AUTHOR
+1814,615,"Ballestri, Chiara",AUTHOR
+1815,615,"Baraldi, Claudio",AUTHOR
+1816,615,"Struzik, Justyna",AUTHOR
+1817,615,"Slusarczyk, Magdalena",AUTHOR
+1818,615,"Warat, Marta",AUTHOR
+1819,615,"Righard, Erica",AUTHOR
+1820,615,"Harju, Anne",AUTHOR
+1821,615,"Svensson Källberg, Petra",AUTHOR
+1822,615,"Frisch, Morten",AUTHOR
+1823,615,"Farini, Federico",AUTHOR
+1824,615,"Murray, Jane",AUTHOR
+1825,615,"Woodbridge-Dodd, Kim",AUTHOR
+1826,615,"Prokopiou, Eva",AUTHOR
+1827,615,"Scollan, Angela",AUTHOR
+1828,616,"Hankonen, Nelli",AUTHOR
+1829,616,"Haukkala, Ari",AUTHOR
+1830,616,"Hankonen, Nelli",AUTHOR
+1831,616,"Haukkala, Ari",AUTHOR
+1832,617,"Hartman, Maaria",AUTHOR
+1833,617,"Laine, Sofia",AUTHOR
+1834,617,"Hartman, Maaria",AUTHOR
+1835,617,"Laine, Sofia",AUTHOR
+1836,618,"Aula, Inkeri",AUTHOR
+1837,618,"Aula, Inkeri",AUTHOR
+1838,619,Tampere Praksis,AUTHOR
+1839,619,Tampere Praksis Project,AUTHOR
+1840,620,Lastensuojelun keskusliitto,AUTHOR
+1841,620,Central Union for Child Welfare,AUTHOR
+1842,621,"Hirvilammi, Tuuli",AUTHOR
+1843,621,"Matthies, Aila-Leena",AUTHOR
+1844,621,"Hirvilammi, Tuuli",AUTHOR
+1845,621,"Matthies, Aila-Leena",AUTHOR
+1846,622,"Salonlahti, Outi",AUTHOR
+1847,622,"Salonlahti, Outi",AUTHOR
+1848,623,"Koski-Jännes, Anja",AUTHOR
+1849,623,"Sarpavaara, Harri",AUTHOR
+1850,623,"Tolonen, Kari",AUTHOR
+1851,623,"Koski-Jännes, Anja",AUTHOR
+1852,623,"Sarpavaara, Harri",AUTHOR
+1853,623,"Tolonen, Kari",AUTHOR
+1854,624,"Tolonen, Kari",AUTHOR
+1855,624,"Koski-Jännes, Anja",AUTHOR
+1856,624,"Sarpavaara, Harri",AUTHOR
+1857,624,"Tolonen, Kari",AUTHOR
+1858,624,"Koski-Jännes, Anja",AUTHOR
+1859,624,"Sarpavaara, Harri",AUTHOR
+1860,625,"Ehrling, Leena",AUTHOR
+1861,625,"Koski-Jännes, Anja",AUTHOR
+1862,625,"Rakkolainen, Maria",AUTHOR
+1863,625,"Tolonen, Kari",AUTHOR
+1864,625,"Ehrling, Leena",AUTHOR
+1865,625,"Koski-Jännes, Anja",AUTHOR
+1866,625,"Rakkolainen, Maria",AUTHOR
+1867,625,"Tolonen, Kari",AUTHOR
+1868,626,"Rakkolainen, Maria",AUTHOR
+1869,626,"Koski-Jännes, Anja",AUTHOR
+1870,626,"Ehrling, Leena",AUTHOR
+1871,626,"Tolonen, Kari",AUTHOR
+1872,626,"Rakkolainen, Maria",AUTHOR
+1873,626,"Koski-Jännes, Anja",AUTHOR
+1874,626,"Ehrling, Leena",AUTHOR
+1875,626,"Tolonen, Kari",AUTHOR
+1876,627,"Pulkkinen, Marianne",AUTHOR
+1877,627,"Pulkkinen, Marianne",AUTHOR
+1878,628,"Serna, Reyver",AUTHOR
+1879,628,"Serna, Reyver",AUTHOR
+1880,629,"Oiva, Mila",AUTHOR
+1881,629,"Oiva, Mila",AUTHOR
+1882,630,"Virrankari, Lotta",AUTHOR
+1883,630,"Virrankari, Lotta",AUTHOR
+1884,631,"Saarni, Matti",AUTHOR
+1885,631,"Saarni, Matti",AUTHOR
+1886,632,"Heikkinen, Saara",AUTHOR
+1887,632,"Heikkinen, Saara",AUTHOR
+1888,633,"Peltola, Marja",AUTHOR
+1889,633,"Phoenix, Ann",AUTHOR
+1890,633,"Peltola, Marja",AUTHOR
+1891,633,"Phoenix, Ann",AUTHOR
+1892,634,"Kesänen, Minna",AUTHOR
+1893,634,"Pietilä, Eija",AUTHOR
+1894,634,"Selin, Jani",AUTHOR
+1895,634,"Kesänen, Minna",AUTHOR
+1896,634,"Pietilä, Eija",AUTHOR
+1897,634,"Selin, Jani",AUTHOR
+1898,635,IROResearch,AUTHOR
+1899,635,IROResearch,AUTHOR
+1900,636,"Huitula, Eeva",AUTHOR
+1901,636,"Huitula, Eeva",AUTHOR
+1902,637,"Taavetti, Riikka",AUTHOR
+1903,637,"Taavetti, Riikka",AUTHOR
+1904,638,Tampere Praksis,AUTHOR
+1905,638,Tampere Praksis Project,AUTHOR
+1906,639,Lapsiasiavaltuutetun toimisto,AUTHOR
+1907,639,Valtion nuorisoneuvosto,AUTHOR
+1908,639,Valtion liikuntaneuvosto,AUTHOR
+1909,639,Nuorisotutkimusseura,AUTHOR
+1910,639,Office of Ombudsman for Children,AUTHOR
+1911,639,State Youth Council,AUTHOR
+1912,639,National Sports Council,AUTHOR
+1913,639,Finnish Youth Research Network,AUTHOR
+1914,640,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1915,640,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1916,640,Tallinn University,AUTHOR
+1917,640,The Aristotle University of Thessaloniki,AUTHOR
+1918,640,University of Szeged,AUTHOR
+1919,640,Loughborough University London,AUTHOR
+1920,640,Social Sciences University of Ankara,AUTHOR
+1921,640,University College London,AUTHOR
+1922,640,University of Tampere. School of Education,AUTHOR
+1923,640,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1924,640,Tallinn University,AUTHOR
+1925,640,The Aristotle University of Thessaloniki,AUTHOR
+1926,640,University of Szeged,AUTHOR
+1927,640,Loughborough University London,AUTHOR
+1928,640,Social Sciences University of Ankara,AUTHOR
+1929,640,University College London,AUTHOR
+1930,641,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1931,641,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1932,641,Tallinn University,AUTHOR
+1933,641,The Aristotle University of Thessaloniki,AUTHOR
+1934,641,University of Szeged,AUTHOR
+1935,641,Loughborough University London,AUTHOR
+1936,641,Social Sciences University of Ankara,AUTHOR
+1937,641,University College London,AUTHOR
+1938,641,University of Tampere. School of Education,AUTHOR
+1939,641,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1940,641,Tallinn University,AUTHOR
+1941,641,The Aristotle University of Thessaloniki,AUTHOR
+1942,641,University of Szeged,AUTHOR
+1943,641,Loughborough University London,AUTHOR
+1944,641,Social Sciences University of Ankara,AUTHOR
+1945,641,University College London,AUTHOR
+1946,642,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1947,642,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1948,642,Tallinn University,AUTHOR
+1949,642,The Aristotle University of Thessaloniki,AUTHOR
+1950,642,University of Szeged,AUTHOR
+1951,642,Loughborough University London,AUTHOR
+1952,642,Social Sciences University of Ankara,AUTHOR
+1953,642,University College London,AUTHOR
+1954,642,University of Tampere. School of Education,AUTHOR
+1955,642,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1956,642,Tallinn University,AUTHOR
+1957,642,The Aristotle University of Thessaloniki,AUTHOR
+1958,642,University of Szeged,AUTHOR
+1959,642,Loughborough University London,AUTHOR
+1960,642,Social Sciences University of Ankara,AUTHOR
+1961,642,University College London,AUTHOR
+1962,643,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1963,643,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1964,643,Tallinn University,AUTHOR
+1965,643,The Aristotle University of Thessaloniki,AUTHOR
+1966,643,University of Szeged,AUTHOR
+1967,643,Loughborough University London,AUTHOR
+1968,643,Social Sciences University of Ankara,AUTHOR
+1969,643,University College London,AUTHOR
+1970,643,University of Tampere. School of Education,AUTHOR
+1971,643,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1972,643,Tallinn University,AUTHOR
+1973,643,The Aristotle University of Thessaloniki,AUTHOR
+1974,643,University of Szeged,AUTHOR
+1975,643,Loughborough University London,AUTHOR
+1976,643,Social Sciences University of Ankara,AUTHOR
+1977,643,University College London,AUTHOR
+1978,644,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1979,644,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1980,644,Tallinn University,AUTHOR
+1981,644,The Aristotle University of Thessaloniki,AUTHOR
+1982,644,University of Szeged,AUTHOR
+1983,644,Loughborough University London,AUTHOR
+1984,644,Social Sciences University of Ankara,AUTHOR
+1985,644,University College London,AUTHOR
+1986,644,University of Tampere. School of Education,AUTHOR
+1987,644,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1988,644,Tallinn University,AUTHOR
+1989,644,The Aristotle University of Thessaloniki,AUTHOR
+1990,644,University of Szeged,AUTHOR
+1991,644,Loughborough University London,AUTHOR
+1992,644,Social Sciences University of Ankara,AUTHOR
+1993,644,University College London,AUTHOR
+1994,645,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1995,645,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1996,645,Tallinn University,AUTHOR
+1997,645,The Aristotle University of Thessaloniki,AUTHOR
+1998,645,University of Szeged,AUTHOR
+1999,645,Loughborough University London,AUTHOR
+2000,645,Social Sciences University of Ankara,AUTHOR
+2001,645,University College London,AUTHOR
+2002,645,University of Tampere. School of Education,AUTHOR
+2003,645,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2004,645,Tallinn University,AUTHOR
+2005,645,The Aristotle University of Thessaloniki,AUTHOR
+2006,645,University of Szeged,AUTHOR
+2007,645,Loughborough University London,AUTHOR
+2008,645,Social Sciences University of Ankara,AUTHOR
+2009,645,University College London,AUTHOR
+2010,646,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2011,646,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2012,646,Tallinn University,AUTHOR
+2013,646,The Aristotle University of Thessaloniki,AUTHOR
+2014,646,University of Szeged,AUTHOR
+2015,646,Loughborough University London,AUTHOR
+2016,646,Social Sciences University of Ankara,AUTHOR
+2017,646,University College London,AUTHOR
+2018,646,University of Tampere. School of Education,AUTHOR
+2019,646,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2020,646,Tallinn University,AUTHOR
+2021,646,The Aristotle University of Thessaloniki,AUTHOR
+2022,646,University of Szeged,AUTHOR
+2023,646,Loughborough University London,AUTHOR
+2024,646,Social Sciences University of Ankara,AUTHOR
+2025,646,University College London,AUTHOR
+2026,647,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2027,647,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2028,647,Tallinn University,AUTHOR
+2029,647,The Aristotle University of Thessaloniki,AUTHOR
+2030,647,University of Szeged,AUTHOR
+2031,647,Loughborough University London,AUTHOR
+2032,647,Social Sciences University of Ankara,AUTHOR
+2033,647,University College London,AUTHOR
+2034,647,University of Tampere. School of Education,AUTHOR
+2035,647,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2036,647,Tallinn University,AUTHOR
+2037,647,The Aristotle University of Thessaloniki,AUTHOR
+2038,647,University of Szeged,AUTHOR
+2039,647,Loughborough University London,AUTHOR
+2040,647,Social Sciences University of Ankara,AUTHOR
+2041,647,University College London,AUTHOR
+2042,648,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2043,648,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2044,648,Tallinn University,AUTHOR
+2045,648,The Aristotle University of Thessaloniki,AUTHOR
+2046,648,University of Szeged,AUTHOR
+2047,648,Loughborough University London,AUTHOR
+2048,648,Social Sciences University of Ankara,AUTHOR
+2049,648,University College London,AUTHOR
+2050,648,University of Tampere. School of Education,AUTHOR
+2051,648,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2052,648,Tallinn University,AUTHOR
+2053,648,The Aristotle University of Thessaloniki,AUTHOR
+2054,648,University of Szeged,AUTHOR
+2055,648,Loughborough University London,AUTHOR
+2056,648,Social Sciences University of Ankara,AUTHOR
+2057,648,University College London,AUTHOR
+2058,649,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2059,649,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2060,649,Tallinn University,AUTHOR
+2061,649,The Aristotle University of Thessaloniki,AUTHOR
+2062,649,University of Szeged,AUTHOR
+2063,649,Loughborough University London,AUTHOR
+2064,649,Social Sciences University of Ankara,AUTHOR
+2065,649,University College London,AUTHOR
+2066,649,University of Tampere. School of Education,AUTHOR
+2067,649,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2068,649,Tallinn University,AUTHOR
+2069,649,The Aristotle University of Thessaloniki,AUTHOR
+2070,649,University of Szeged,AUTHOR
+2071,649,Loughborough University London,AUTHOR
+2072,649,Social Sciences University of Ankara,AUTHOR
+2073,649,University College London,AUTHOR
+2074,650,"Määttä, Mirja",AUTHOR
+2075,650,"Määttä, Mirja",AUTHOR
+2076,651,"Pienimäki, Mari",AUTHOR
+2077,651,"Kotilainen, Sirkku",AUTHOR
+2078,651,"Kalfayan, Aline",AUTHOR
+2079,651,"Grönholm, Pauliina",AUTHOR
+2080,651,"Pienimäki, Mari",AUTHOR
+2081,651,"Kotilainen, Sirkku",AUTHOR
+2082,651,"Kalfayan, Aline",AUTHOR
+2083,651,"Grönholm, Pauliina",AUTHOR
+2084,652,Tampere Praksis,AUTHOR
+2085,652,Tampere Praksis Project,AUTHOR
+2086,653,"Lamminmäki, Suvi",AUTHOR
+2087,653,"Lamminmäki, Suvi",AUTHOR
+2088,654,"Mäkelä, Pia",AUTHOR
+2089,654,"Härkönen, Janne",AUTHOR
+2090,654,"Lintonen, Tomi",AUTHOR
+2091,654,"Tigerstedt, Christoffer",AUTHOR
+2092,654,"Mäkelä, Pia",AUTHOR
+2093,654,"Härkönen, Janne",AUTHOR
+2094,654,"Lintonen, Tomi",AUTHOR
+2095,654,"Tigerstedt, Christoffer",AUTHOR
+2096,655,"Isola, Anna-Maria",AUTHOR
+2097,655,"Vaara, Mariitta",AUTHOR
+2098,655,"Isola, Anna-Maria",AUTHOR
+2099,655,"Vaara, Mariitta",AUTHOR
+2100,656,"Laukkanen, Sanna",AUTHOR
+2101,656,"Laukkanen, Sanna",AUTHOR
+2102,657,"Olkkonen, Satu",AUTHOR
+2103,657,"Kotilainen, Sirkku",AUTHOR
+2104,657,"Pienimäki, Mari",AUTHOR
+2105,657,"Olkkonen, Satu",AUTHOR
+2106,657,"Kotilainen, Sirkku",AUTHOR
+2107,657,"Pienimäki, Mari",AUTHOR
+2108,658,"Pienimäki, Mari",AUTHOR
+2109,658,"Pienimäki, Mari",AUTHOR
+2110,659,"Anttila, Anna",AUTHOR
+2111,659,"Anttila, Anna",AUTHOR
+2112,660,"Puska, Maija",AUTHOR
+2113,660,"Pienimäki, Mari",AUTHOR
+2114,660,"Kotilainen, Sirkku",AUTHOR
+2115,660,"Puska, Maija",AUTHOR
+2116,660,"Pienimäki, Mari",AUTHOR
+2117,660,"Kotilainen, Sirkku",AUTHOR
+2118,661,"Kiuru, Inka",AUTHOR
+2119,661,"Myllynen, Milka",AUTHOR
+2120,661,"Pienimäki, Mari",AUTHOR
+2121,661,"Kotilainen, Sirkku",AUTHOR
+2122,661,"Kiuru, Inka",AUTHOR
+2123,661,"Myllynen, Milka",AUTHOR
+2124,661,"Pienimäki, Mari",AUTHOR
+2125,661,"Kotilainen, Sirkku",AUTHOR
+2126,662,"Annala, Johanna",AUTHOR
+2127,662,"Mäkinen, Marita",AUTHOR
+2128,662,"Annala, Johanna",AUTHOR
+2129,662,"Mäkinen, Marita",AUTHOR
+2130,663,"Rantanen, Teijo",AUTHOR
+2131,663,"Rantanen, Teijo",AUTHOR
+2132,664,"Jauhiainen, Iida",AUTHOR
+2133,664,"Jauhiainen, Iida",AUTHOR
+2134,665,Tampere Praksis,AUTHOR
+2135,665,Tampere Praksis Project,AUTHOR
+2136,666,"Tuomaala, Vaula",AUTHOR
+2137,666,"Tuomaala, Vaula",AUTHOR
+2138,667,"Sariola, Heikki",AUTHOR
+2139,667,"Sariola, Heikki",AUTHOR
+2140,668,"Sariola, Heikki",AUTHOR
+2141,668,"Sariola, Heikki",AUTHOR
+2142,669,"Lehtonen, Jukka",AUTHOR
+2143,669,"Lehtonen, Jukka",AUTHOR
+2144,670,Tampere Praksis,AUTHOR
+2145,670,Tampere Praksis Project,AUTHOR
+2146,671,"Ikonen, Hanna-Mari",AUTHOR
+2147,671,"Ikonen, Hanna-Mari",AUTHOR
+2148,672,"Hyttinen, Elsi",AUTHOR
+2149,672,"Lehtonen, Mikko",AUTHOR
+2150,672,"Hyttinen, Elsi",AUTHOR
+2151,672,"Lehtonen, Mikko",AUTHOR
+2152,673,"Fält, Katja",AUTHOR
+2153,673,"Okuloff, Annaleena",AUTHOR
+2154,673,"Fält, Katja",AUTHOR
+2155,673,"Okuloff, Annaleena",AUTHOR
+2156,674,"Schuurman, Nora",AUTHOR
+2157,674,"Schuurman, Nora",AUTHOR
+2158,675,"Kotilainen, Sirkku",AUTHOR
+2159,675,"Kotilainen, Sirkku",AUTHOR
+2160,676,"Mattinen, Pauliina",AUTHOR
+2161,676,"Mattinen, Pauliina",AUTHOR
+2162,677,"Faehnle, Maija",AUTHOR
+2163,677,"Schulman, Harry",AUTHOR
+2164,677,"Söderman, Tarja",AUTHOR
+2165,677,"Kopperoinen, Leena",AUTHOR
+2166,677,"Hirvensalo, Jenni",AUTHOR
+2167,677,"Faehnle, Maija",AUTHOR
+2168,677,"Schulman, Harry",AUTHOR
+2169,677,"Söderman, Tarja",AUTHOR
+2170,677,"Kopperoinen, Leena",AUTHOR
+2171,677,"Hirvensalo, Jenni",AUTHOR
+2172,678,"Kröger, Teppo",AUTHOR
+2173,678,"Jolanki, Outi",AUTHOR
+2174,678,"Leinonen, Anu",AUTHOR
+2175,678,"Kröger, Teppo",AUTHOR
+2176,678,"Jolanki, Outi",AUTHOR
+2177,678,"Leinonen, Anu",AUTHOR
+2178,679,"Grönlund, Kimmo",AUTHOR
+2179,679,"Kestilä-Kekkonen, Elina",AUTHOR
+2180,679,"Grönlund, Kimmo",AUTHOR
+2181,679,"Kestilä-Kekkonen, Elina",AUTHOR
+2182,680,"Nystedt, Ursula",AUTHOR
+2183,680,"Nystedt, Ursula",AUTHOR
+2184,681,"Turunen, Leo",AUTHOR
+2185,681,"Kivioja, Arvi",AUTHOR
+2186,681,"Riihimäki, Jouni",AUTHOR
+2187,681,"Määttä, Paula",AUTHOR
+2188,681,"Turunen, Leo",AUTHOR
+2189,681,"Kivioja, Arvi",AUTHOR
+2190,681,"Riihimäki, Jouni",AUTHOR
+2191,681,"Määttä, Paula",AUTHOR
+2192,682,"Moisio, Pasi",AUTHOR
+2193,682,"Moisio, Pasi",AUTHOR
+2194,683,"Moisio, Pasi",AUTHOR
+2195,683,"Moisio, Pasi",AUTHOR
+2196,684,"Nokkala, Terhi",AUTHOR
+2197,684,"Diogo, Sara",AUTHOR
+2198,684,"Nokkala, Terhi",AUTHOR
+2199,684,"Diogo, Sara",AUTHOR
+2200,685,"Rangell, Suvi",AUTHOR
+2201,685,"Rangell, Suvi",AUTHOR
+2202,686,"Koivunen, Tuija",AUTHOR
+2203,686,"Koivunen, Tuija",AUTHOR
+2204,687,"Galanakis, Michail",AUTHOR
+2205,687,"Galanakis, Michail",AUTHOR
+2206,688,"Wiberg, Matti",AUTHOR
+2207,688,"Wiberg, Matti",AUTHOR
+2208,689,"Karvinen, Juho",AUTHOR
+2209,689,"Karvinen, Juho",AUTHOR
+2210,690,"Linkala, Minna-Kristiina",AUTHOR
+2211,690,"Linkala, Minna-Kristiina",AUTHOR
+2212,691,Tampereen yliopisto. Työelämän tutkimuskeskus,AUTHOR
+2213,691,University of Tampere. Work Research Center (WRC),AUTHOR
+2214,692,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2215,692,Työ- ja elinkeinoministeriö,AUTHOR
+2216,692,Statistics Finland. Interview and Survey Services,AUTHOR
+2217,692,Ministry of Employment and the Economy,AUTHOR
+2218,693,"Galanakis, Michail",AUTHOR
+2219,693,"Galanakis, Michail",AUTHOR
+2220,694,"Jansson, Julia",AUTHOR
+2221,694,"Jansson, Julia",AUTHOR
+2222,695,Suomen Kulttuurirahasto,AUTHOR
+2223,695,Finnish Cultural Foundation,AUTHOR
+2224,696,"Moisio, Pasi",AUTHOR
+2225,696,"Moisio, Pasi",AUTHOR
+2226,697,"Moisio, Pasi",AUTHOR
+2227,697,"Moisio, Pasi",AUTHOR
+2228,698,"Moisio, Pasi",AUTHOR
+2229,698,"Moisio, Pasi",AUTHOR
+2230,699,"Moisio, Pasi",AUTHOR
+2231,699,"Moisio, Pasi",AUTHOR
+2232,700,"Moisio, Pasi",AUTHOR
+2233,700,"Moisio, Pasi",AUTHOR
+2234,701,"Moisio, Pasi",AUTHOR
+2235,701,"Moisio, Pasi",AUTHOR
+2236,702,"Hautamäki, Lauri",AUTHOR
+2237,702,"Taimi, Heikki",AUTHOR
+2238,702,"Kleemola, Jussi",AUTHOR
+2239,702,"Jyllilä, Erkki",AUTHOR
+2240,702,"Mäki-Rahkola, Jari",AUTHOR
+2241,702,"Hautamäki, Lauri",AUTHOR
+2242,702,"Taimi, Heikki",AUTHOR
+2243,702,"Kleemola, Jussi",AUTHOR
+2244,702,"Jyllilä, Erkki",AUTHOR
+2245,702,"Mäki-Rahkola, Jari",AUTHOR
+2246,703,"Ahrio, Leena",AUTHOR
+2247,703,"Ahrio, Leena",AUTHOR
+2248,704,"Koivunen, Tuija",AUTHOR
+2249,704,"Kinnunen, Taina",AUTHOR
+2250,704,"Parviainen, Jaana",AUTHOR
+2251,704,"Koivunen, Tuija",AUTHOR
+2252,704,"Kinnunen, Taina",AUTHOR
+2253,704,"Parviainen, Jaana",AUTHOR
+2254,705,"Mäkinen, Katariina",AUTHOR
+2255,705,"Korvajärvi, Päivi",AUTHOR
+2256,705,"Mäkinen, Katariina",AUTHOR
+2257,705,"Korvajärvi, Päivi",AUTHOR
+2258,706,"Wallin, Antti",AUTHOR
+2259,706,"Wallin, Antti",AUTHOR
+2260,707,"Groop, Catharina",AUTHOR
+2261,707,"Groop, Catharina",AUTHOR
+2262,708,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2263,708,Työ- ja elinkeinoministeriö,AUTHOR
+2264,708,Statistics Finland. Interview and Survey Services,AUTHOR
+2265,708,Ministry of Employment and the Economy,AUTHOR
+2266,709,"Isola, Anna-Maria",AUTHOR
+2267,709,"Isola, Anna-Maria",AUTHOR
+2268,710,"Helve, Helena",AUTHOR
+2269,710,"Helve, Helena",AUTHOR
+2270,711,"Pulkkinen, Lea",AUTHOR
+2271,711,"Kinnunen, Marja-Liisa",AUTHOR
+2272,711,"Kokko, Katja",AUTHOR
+2273,711,"Pulkkinen, Lea",AUTHOR
+2274,711,"Kinnunen, Marja-Liisa",AUTHOR
+2275,711,"Kokko, Katja",AUTHOR
+2276,712,"Kekkonen, Marjatta",AUTHOR
+2277,712,"Kekkonen, Marjatta",AUTHOR
+2278,713,"Puuska, Hanna-Mari",AUTHOR
+2279,713,"Miettinen, Marita",AUTHOR
+2280,713,"Himanen, Laura",AUTHOR
+2281,713,"Puuska, Hanna-Mari",AUTHOR
+2282,713,"Miettinen, Marita",AUTHOR
+2283,713,"Himanen, Laura",AUTHOR
+2284,714,"Tiilikka, Tiina",AUTHOR
+2285,714,"Palukka, Hannele",AUTHOR
+2286,714,"Tolkki, Helena",AUTHOR
+2287,714,"Tiilikka, Tiina",AUTHOR
+2288,714,"Palukka, Hannele",AUTHOR
+2289,714,"Tolkki, Helena",AUTHOR
+2290,715,"Palukka, Hannele",AUTHOR
+2291,715,"Auvinen, Petra",AUTHOR
+2292,715,"Tiilikka, Tiina",AUTHOR
+2293,715,"Palukka, Hannele",AUTHOR
+2294,715,"Auvinen, Petra",AUTHOR
+2295,715,"Tiilikka, Tiina",AUTHOR
+2296,716,"Kekkonen, Kari",AUTHOR
+2297,716,"Kekkonen, Kari",AUTHOR
+2298,717,"Kaukonen, Erkki",AUTHOR
+2299,717,"Rautio, Pertti",AUTHOR
+2300,717,"Suhonen, Pertti",AUTHOR
+2301,717,"Kaukonen, Erkki",AUTHOR
+2302,717,"Rautio, Pertti",AUTHOR
+2303,717,"Suhonen, Pertti",AUTHOR
+2304,718,"Sariola, Heikki",AUTHOR
+2305,718,"Sariola, Heikki",AUTHOR
+2306,719,"Sariola, Heikki",AUTHOR
+2307,719,"Sariola, Heikki",AUTHOR
+2308,720,"Sariola, Heikki",AUTHOR
+2309,720,"Sariola, Heikki",AUTHOR
+2310,721,"Sariola, Heikki",AUTHOR
+2311,721,"Sariola, Heikki",AUTHOR
+2312,722,"Sariola, Heikki",AUTHOR
+2313,722,"Sariola, Heikki",AUTHOR
+2314,723,"Sariola, Heikki",AUTHOR
+2315,723,"Sariola, Heikki",AUTHOR
+2316,724,"Sariola, Heikki",AUTHOR
+2317,724,"Sariola, Heikki",AUTHOR
+2318,725,"Kaukonen, Erkki",AUTHOR
+2319,725,"Alestalo, Marja",AUTHOR
+2320,725,"Kaukonen, Erkki",AUTHOR
+2321,725,"Alestalo, Marja",AUTHOR
+2322,726,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2323,726,Työ- ja elinkeinoministeriö,AUTHOR
+2324,726,Statistics Finland. Interview and Survey Services,AUTHOR
+2325,726,Ministry of Employment and the Economy,AUTHOR
+2326,727,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2327,727,Työ- ja elinkeinoministeriö,AUTHOR
+2328,727,Statistics Finland. Interview and Survey Services,AUTHOR
+2329,727,Ministry of Employment and the Economy,AUTHOR
+2330,728,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2331,728,Työ- ja elinkeinoministeriö,AUTHOR
+2332,728,Statistics Finland. Interview and Survey Services,AUTHOR
+2333,728,Ministry of Employment and the Economy,AUTHOR
+2334,729,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2335,729,Työ- ja elinkeinoministeriö,AUTHOR
+2336,729,Statistics Finland. Interview and Survey Services,AUTHOR
+2337,729,Ministry of Employment and the Economy,AUTHOR
+2338,730,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2339,730,Työministeriö,AUTHOR
+2340,730,Statistics Finland. Interview and Survey Services,AUTHOR
+2341,730,Ministry of Labour,AUTHOR
+2342,731,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2343,731,Työministeriö,AUTHOR
+2344,731,Statistics Finland. Interview and Survey Services,AUTHOR
+2345,731,Ministry of Labour,AUTHOR
+2346,732,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2347,732,Työministeriö,AUTHOR
+2348,732,Statistics Finland. Interview and Survey Services,AUTHOR
+2349,732,Ministry of Labour,AUTHOR
+2350,733,Ackermann. Kathrin,AUTHOR
+2351,733,Ackermann. Kathrin,AUTHOR
+2352,733,"Allerbeck, Klaus",AUTHOR
+2353,733,"Allerbeck, Klaus",AUTHOR
+2354,733,"Allmendinger, Jutta",AUTHOR
+2355,733,"Allmendinger, Jutta",AUTHOR
+2356,733,"Andreß, Hans-Jürgen",AUTHOR
+2357,733,"Andreß, Hans-Jürgen",AUTHOR
+2358,733,"Auspurg, Katrin",AUTHOR
+2359,733,"Auspurg, Katrin",AUTHOR
+2360,733,"Bauernschuster, Stefan",AUTHOR
+2361,733,"Bauernschuster, Stefan",AUTHOR
+2362,733,"Bühler, Christoph",AUTHOR
+2363,733,"Bühler, Christoph",AUTHOR
+2364,733,"Bürklin, Wilhelm",AUTHOR
+2365,733,"Bürklin, Wilhelm",AUTHOR
+2366,733,"Carol, Sarah",AUTHOR
+2367,733,"Carol, Sarah",AUTHOR
+2368,733,"Diekmann, Andreas",AUTHOR
+2369,733,"Diekmann, Andreas",AUTHOR
+2370,733,"Feger, Hubert",AUTHOR
+2371,733,"Feger, Hubert",AUTHOR
+2372,733,"Fetchenhauer, Detlef",AUTHOR
+2373,733,"Fetchenhauer, Detlef",AUTHOR
+2374,733,"Friehs, Maria-Therese",AUTHOR
+2375,733,"Friehs, Maria-Therese",AUTHOR
+2376,733,"Hadjar, Andreas",AUTHOR
+2377,733,"Hadjar, Andreas",AUTHOR
+2378,733,"Hillmert, Steffen",AUTHOR
+2379,733,"Hillmert, Steffen",AUTHOR
+2380,733,"Huinink, Johannes",AUTHOR
+2381,733,"Huinink, Johannes",AUTHOR
+2382,733,"Kiefer, Marie Luise",AUTHOR
+2383,733,"Kiefer, Marie Luise",AUTHOR
+2384,733,"Kreuter, Frauke",AUTHOR
+2385,733,"Kreuter, Frauke",AUTHOR
+2386,733,"Kühnel, Steffen",AUTHOR
+2387,733,"Kühnel, Steffen",AUTHOR
+2388,733,"Kurz, Karin",AUTHOR
+2389,733,"Kurz, Karin",AUTHOR
+2390,733,"Lepsius, M. Rainer",AUTHOR
+2391,733,"Lepsius, M. Rainer",AUTHOR
+2392,733,"Liebig, Stefan",AUTHOR
+2393,733,"Liebig, Stefan",AUTHOR
+2394,733,"Mayer, Karl Ulrich",AUTHOR
+2395,733,"Mayer, Karl Ulrich",AUTHOR
+2396,733,"Meulemann, Heiner",AUTHOR
+2397,733,"Meulemann, Heiner",AUTHOR
+2398,733,"Müller, Walter",AUTHOR
+2399,733,"Müller, Walter",AUTHOR
+2400,733,"Opp, Karl Dieter",AUTHOR
+2401,733,"Opp, Karl Dieter",AUTHOR
+2402,733,"Pappi, Franz Urban",AUTHOR
+2403,733,"Pappi, Franz Urban",AUTHOR
+2404,733,"Rosar, Ulrich",AUTHOR
+2405,733,"Rosar, Ulrich",AUTHOR
+2406,733,"Scheuch, Erwin K.",AUTHOR
+2407,733,"Scheuch, Erwin K.",AUTHOR
+2408,733,"Schmitt-Beck, Rüdiger",AUTHOR
+2409,733,"Schmitt-Beck, Rüdiger",AUTHOR
+2410,733,"Solga, Heike",AUTHOR
+2411,733,"Solga, Heike",AUTHOR
+2412,733,"Tausendpfund, Markus",AUTHOR
+2413,733,"Tausendpfund, Markus",AUTHOR
+2414,733,"Trappe, Heike",AUTHOR
+2415,733,"Trappe, Heike",AUTHOR
+2416,733,"Wagner, Michael",AUTHOR
+2417,733,"Wagner, Michael",AUTHOR
+2418,733,"Wagner, Ulrich",AUTHOR
+2419,733,"Wagner, Ulrich",AUTHOR
+2420,733,"Westle, Bettina",AUTHOR
+2421,733,"Westle, Bettina",AUTHOR
+2422,733,"Ziegler, Rolf",AUTHOR
+2423,733,"Ziegler, Rolf",AUTHOR
+2424,734,"Westle, Bettina",AUTHOR
+2425,734,"Westle, Bettina",AUTHOR
+2426,734,"Auspurg, Katrin",AUTHOR
+2427,734,"Auspurg, Katrin",AUTHOR
+2428,734,"Bühler, Christoph",AUTHOR
+2429,734,"Bühler, Christoph",AUTHOR
+2430,734,"Hadjar, Andreas",AUTHOR
+2431,734,"Hadjar, Andreas",AUTHOR
+2432,734,"Hillmert, Steffen",AUTHOR
+2433,734,"Hillmert, Steffen",AUTHOR
+2434,734,"Rosar, Ulrich",AUTHOR
+2435,734,"Rosar, Ulrich",AUTHOR
+2436,734,"Wagner, Ulrich",AUTHOR
+2437,734,"Wagner, Ulrich",AUTHOR
+2438,735,"German Internet Panel, Universität Mannheim",AUTHOR
+2439,735,"German Internet Panel, Universität Mannheim",AUTHOR
+2440,736,"German Internet Panel, Universität Mannheim",AUTHOR
+2441,736,"German Internet Panel, Universität Mannheim",AUTHOR
+2442,737,"German Internet Panel, Universität Mannheim",AUTHOR
+2443,737,"German Internet Panel, Universität Mannheim",AUTHOR
+2444,738,"German Internet Panel, Universität Mannheim",AUTHOR
+2445,738,"German Internet Panel, Universität Mannheim",AUTHOR
+2446,739,"German Internet Panel, Universität Mannheim",AUTHOR
+2447,739,"German Internet Panel, Universität Mannheim",AUTHOR
+2448,740,"Castillo, Pilar del",AUTHOR
+2449,740,"Castillo, Pilar del",AUTHOR
+2450,740,"Eijk, Cees van der",AUTHOR
+2451,740,"Eijk, Cees van der",AUTHOR
+2452,740,"Franklin, Mark",AUTHOR
+2453,740,"Franklin, Mark",AUTHOR
+2454,740,"Katz, Richard",AUTHOR
+2455,740,"Katz, Richard",AUTHOR
+2456,740,"Mannheimer, Renato",AUTHOR
+2457,740,"Mannheimer, Renato",AUTHOR
+2458,740,"Marsh, Michael",AUTHOR
+2459,740,"Marsh, Michael",AUTHOR
+2460,740,"Norris, Pippa",AUTHOR
+2461,740,"Norris, Pippa",AUTHOR
+2462,740,"Oppenhuis, Erik",AUTHOR
+2463,740,"Oppenhuis, Erik",AUTHOR
+2464,740,"Schmitt, Hermann",AUTHOR
+2465,740,"Schmitt, Hermann",AUTHOR
+2466,740,"Thomassen, Jacques",AUTHOR
+2467,740,"Thomassen, Jacques",AUTHOR
+2468,740,"Wessels, Bernard",AUTHOR
+2469,740,"Wessels, Bernard",AUTHOR
+2470,740,"Ysmal, Colette",AUTHOR
+2471,740,"Ysmal, Colette",AUTHOR
+2472,741,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2473,741,Työministeriö,AUTHOR
+2474,741,Statistics Finland. Interview and Survey Services,AUTHOR
+2475,741,Ministry of Labour,AUTHOR
+2476,742,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2477,742,Työministeriö,AUTHOR
+2478,742,Statistics Finland. Interview and Survey Services,AUTHOR
+2479,742,Ministry of Labour,AUTHOR
+2480,743,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2481,743,Työministeriö,AUTHOR
+2482,743,Statistics Finland. Interview and Survey Services,AUTHOR
+2483,743,Ministry of Labour,AUTHOR
+2484,744,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2485,744,Työministeriö,AUTHOR
+2486,744,Statistics Finland. Interview and Survey Services,AUTHOR
+2487,744,Ministry of Labour,AUTHOR
+2488,745,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2489,745,Työministeriö,AUTHOR
+2490,745,Statistics Finland. Interview and Survey Services,AUTHOR
+2491,745,Ministry of Labour,AUTHOR
+2492,746,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2493,746,Työministeriö,AUTHOR
+2494,746,Statistics Finland. Interview and Survey Services,AUTHOR
+2495,746,Ministry of Labour,AUTHOR
+2496,747,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2497,747,Työministeriö,AUTHOR
+2498,747,Statistics Finland. Interview and Survey Services,AUTHOR
+2499,747,Ministry of Labour,AUTHOR
+2500,748,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2501,748,Työministeriö,AUTHOR
+2502,748,Statistics Finland. Interview and Survey Services,AUTHOR
+2503,748,Ministry of Labour,AUTHOR
+2504,749,Tilastokeskus. Haastattelu- ja tutkimuspalvelut,AUTHOR
+2505,749,Työministeriö,AUTHOR
+2506,749,Statistics Finland. Interview and Survey Services,AUTHOR
+2507,749,Ministry of Labour,AUTHOR
+2508,750,"Lappalainen, Sirpa",AUTHOR
+2509,750,"Lappalainen, Sirpa",AUTHOR
+2510,751,"Lappalainen, Sirpa",AUTHOR
+2511,751,"Lappalainen, Sirpa",AUTHOR
+2512,752,"Saarnio, Pekka",AUTHOR
+2513,752,"Tolonen, Marjo",AUTHOR
+2514,752,"Saarnio, Pekka",AUTHOR
+2515,752,"Tolonen, Marjo",AUTHOR
+2516,753,Nuorisoasiain neuvottelukunta (Nuora),AUTHOR
+2517,753,Nuorisotutkimusseura. Nuorisotutkimusverkosto,AUTHOR
+2518,753,Advisory Council for Youth Affairs (Nuora),AUTHOR
+2519,753,Finnish Youth Research Society. Finnish Youth Research Network,AUTHOR
+2520,754,"Sarelin, Alessandra",AUTHOR
+2521,754,"Sarelin, Alessandra",AUTHOR
+2522,755,"Grönlund, Kimmo",AUTHOR
+2523,755,"Grönlund, Kimmo",AUTHOR
+2524,756,"Hirvonen, Riikka",AUTHOR
+2525,756,"Pääjärvi, Saara",AUTHOR
+2526,756,"Rahja, Rauna",AUTHOR
+2527,756,"Suoninen, Annika",AUTHOR
+2528,756,"Hirvonen, Riikka",AUTHOR
+2529,756,"Pääjärvi, Saara",AUTHOR
+2530,756,"Rahja, Rauna",AUTHOR
+2531,756,"Suoninen, Annika",AUTHOR
+2532,757,"Juhila, Kirsi",AUTHOR
+2533,757,"Günther, Kirsi",AUTHOR
+2534,757,"Kaartamo, Riina",AUTHOR
+2535,757,"Kulmala, Anna",AUTHOR
+2536,757,"Raitakari, Suvi",AUTHOR
+2537,757,"Saario, Sirpa",AUTHOR
+2538,757,"Juhila, Kirsi",AUTHOR
+2539,757,"Günther, Kirsi",AUTHOR
+2540,757,"Kaartamo, Riina",AUTHOR
+2541,757,"Kulmala, Anna",AUTHOR
+2542,757,"Raitakari, Suvi",AUTHOR
+2543,757,"Saario, Sirpa",AUTHOR
+2544,758,"Juhila, Kirsi",AUTHOR
+2545,758,"Günther, Kirsi",AUTHOR
+2546,758,"Kaartamo, Riina",AUTHOR
+2547,758,"Kulmala, Anna",AUTHOR
+2548,758,"Raitakari, Suvi",AUTHOR
+2549,758,"Saario, Sirpa",AUTHOR
+2550,758,"Juhila, Kirsi",AUTHOR
+2551,758,"Günther, Kirsi",AUTHOR
+2552,758,"Kaartamo, Riina",AUTHOR
+2553,758,"Kulmala, Anna",AUTHOR
+2554,758,"Raitakari, Suvi",AUTHOR
+2555,758,"Saario, Sirpa",AUTHOR
+2556,759,"Juhila, Kirsi",AUTHOR
+2557,759,"Günther, Kirsi",AUTHOR
+2558,759,"Kaartamo, Riina",AUTHOR
+2559,759,"Kulmala, Anna",AUTHOR
+2560,759,"Raitakari, Suvi",AUTHOR
+2561,759,"Saario, Sirpa",AUTHOR
+2562,759,"Juhila, Kirsi",AUTHOR
+2563,759,"Günther, Kirsi",AUTHOR
+2564,759,"Kaartamo, Riina",AUTHOR
+2565,759,"Kulmala, Anna",AUTHOR
+2566,759,"Raitakari, Suvi",AUTHOR
+2567,759,"Saario, Sirpa",AUTHOR
+2568,760,"Saarnio, Pekka",AUTHOR
+2569,760,"Saarnio, Pekka",AUTHOR
+2570,761,"Saarnio, Pekka",AUTHOR
+2571,761,"Saarnio, Pekka",AUTHOR
+2572,762,"Määttä, Mirja",AUTHOR
+2573,762,"Määttä, Mirja",AUTHOR
+2574,763,"Grönlund, Kimmo",AUTHOR
+2575,763,"Grönlund, Kimmo",AUTHOR
+2576,764,Työministeriö,AUTHOR
+2577,764,Tilastokeskus,AUTHOR
+2578,764,Ministry of Labour,AUTHOR
+2579,764,Statistics Finland,AUTHOR
+2580,765,Työministeriö,AUTHOR
+2581,765,Tilastokeskus,AUTHOR
+2582,765,Ministry of Labour,AUTHOR
+2583,765,Statistics Finland,AUTHOR
+2584,766,Työministeriö,AUTHOR
+2585,766,Tilastokeskus,AUTHOR
+2586,766,Ministry of Labour,AUTHOR
+2587,766,Statistics Finland,AUTHOR
+2588,767,Työministeriö,AUTHOR
+2589,767,Tilastokeskus,AUTHOR
+2590,767,Ministry of Labour,AUTHOR
+2591,767,Statistics Finland,AUTHOR
+2592,768,Työministeriö,AUTHOR
+2593,768,Tilastokeskus,AUTHOR
+2594,768,Ministry of Labour,AUTHOR
+2595,768,Statistics Finland,AUTHOR
+2596,769,Työministeriö,AUTHOR
+2597,769,Tilastokeskus,AUTHOR
+2598,769,Ministry of Labour,AUTHOR
+2599,769,Statistics Finland,AUTHOR
+2600,770,Työministeriö,AUTHOR
+2601,770,Tilastokeskus,AUTHOR
+2602,770,Ministry of Labour,AUTHOR
+2603,770,Statistics Finland,AUTHOR
+2604,771,Työministeriö,AUTHOR
+2605,771,Tilastokeskus,AUTHOR
+2606,771,Ministry of Labour,AUTHOR
+2607,771,Statistics Finland,AUTHOR
+2608,772,Työministeriö,AUTHOR
+2609,772,Tilastokeskus,AUTHOR
+2610,772,Ministry of Labour,AUTHOR
+2611,772,Statistics Finland,AUTHOR
+2612,773,Työministeriö,AUTHOR
+2613,773,Tilastokeskus,AUTHOR
+2614,773,Ministry of Labour,AUTHOR
+2615,773,Statistics Finland,AUTHOR
+2616,774,Työministeriö,AUTHOR
+2617,774,Tilastokeskus,AUTHOR
+2618,774,Ministry of Labour,AUTHOR
+2619,774,Statistics Finland,AUTHOR
+2620,775,Työministeriö,AUTHOR
+2621,775,Tilastokeskus,AUTHOR
+2622,775,Ministry of Labour,AUTHOR
+2623,775,Statistics Finland,AUTHOR
+2624,776,Työministeriö,AUTHOR
+2625,776,Tilastokeskus,AUTHOR
+2626,776,Ministry of Labour,AUTHOR
+2627,776,Statistics Finland,AUTHOR
+2628,777,Työministeriö,AUTHOR
+2629,777,Tilastokeskus,AUTHOR
+2630,777,Ministry of Labour,AUTHOR
+2631,777,Statistics Finland,AUTHOR
+2632,778,Työministeriö,AUTHOR
+2633,778,Tilastokeskus,AUTHOR
+2634,778,Ministry of Labour,AUTHOR
+2635,778,Statistics Finland,AUTHOR
+2636,779,"Borg, Sami",AUTHOR
+2637,779,"Grönlund, Kimmo",AUTHOR
+2638,779,"Borg, Sami",AUTHOR
+2639,779,"Grönlund, Kimmo",AUTHOR
+2640,780,Työ- ja elinkeinoministeriö,AUTHOR
+2641,780,Tilastokeskus,AUTHOR
+2642,780,Ministry of Employment and the Economy,AUTHOR
+2643,780,Statistics Finland,AUTHOR
+2644,781,Työ- ja elinkeinoministeriö,AUTHOR
+2645,781,Tilastokeskus,AUTHOR
+2646,781,Ministry of Employment and the Economy,AUTHOR
+2647,781,Statistics Finland,AUTHOR
+2648,782,Työ- ja elinkeinoministeriö,AUTHOR
+2649,782,Tilastokeskus,AUTHOR
+2650,782,Ministry of Employment and the Economy,AUTHOR
+2651,782,Statistics Finland,AUTHOR
+2652,783,Työministeriö,AUTHOR
+2653,783,Tilastokeskus,AUTHOR
+2654,783,Ministry of Labour,AUTHOR
+2655,783,Statistics Finland,AUTHOR
+2656,784,"Koivunen, Tuija",AUTHOR
+2657,784,"Koivunen, Tuija",AUTHOR
+2658,785,"Siivonen, Katriina",AUTHOR
+2659,785,"Kotilainen, Sirkku",AUTHOR
+2660,785,"Siivonen, Katriina",AUTHOR
+2661,785,"Kotilainen, Sirkku",AUTHOR
+2662,786,"Malm, Toni",AUTHOR
+2663,786,"Malm, Toni",AUTHOR
+2664,787,"Raittila, Pentti",AUTHOR
+2665,787,"Raittila, Pentti",AUTHOR
+2666,788,"Pulkkinen, Lea",AUTHOR
+2667,788,"Kinnunen, Marja-Liisa",AUTHOR
+2668,788,"Kokko, Katja",AUTHOR
+2669,788,"Pulkkinen, Lea",AUTHOR
+2670,788,"Kinnunen, Marja-Liisa",AUTHOR
+2671,788,"Kokko, Katja",AUTHOR
+2672,789,"Pulkkinen, Lea",AUTHOR
+2673,789,"Kinnunen, Marja-Liisa",AUTHOR
+2674,789,"Kokko, Katja",AUTHOR
+2675,789,"Pulkkinen, Lea",AUTHOR
+2676,789,"Kinnunen, Marja-Liisa",AUTHOR
+2677,789,"Kokko, Katja",AUTHOR
+2678,790,"Pulkkinen, Lea",AUTHOR
+2679,790,"Kinnunen, Marja-Liisa",AUTHOR
+2680,790,"Kokko, Katja",AUTHOR
+2681,790,"Pulkkinen, Lea",AUTHOR
+2682,790,"Kinnunen, Marja-Liisa",AUTHOR
+2683,790,"Kokko, Katja",AUTHOR
+2684,791,"Pulkkinen, Lea",AUTHOR
+2685,791,"Kinnunen, Marja-Liisa",AUTHOR
+2686,791,"Kokko, Katja",AUTHOR
+2687,791,"Pulkkinen, Lea",AUTHOR
+2688,791,"Kinnunen, Marja-Liisa",AUTHOR
+2689,791,"Kokko, Katja",AUTHOR
+2690,792,"Pulkkinen, Lea",AUTHOR
+2691,792,"Kinnunen, Marja-Liisa",AUTHOR
+2692,792,"Kokko, Katja",AUTHOR
+2693,792,"Pulkkinen, Lea",AUTHOR
+2694,792,"Kinnunen, Marja-Liisa",AUTHOR
+2695,792,"Kokko, Katja",AUTHOR
+2696,793,"Kerkkänen, Paavo",AUTHOR
+2697,793,"Kerkkänen, Paavo",AUTHOR
+2698,794,"Määttä, Mirja",AUTHOR
+2699,794,"Määttä, Mirja",AUTHOR
+2700,795,"Reunanen, Esa",AUTHOR
+2701,795,"Kunelius, Risto",AUTHOR
+2702,795,"Noppari, Elina",AUTHOR
+2703,795,"Reunanen, Esa",AUTHOR
+2704,795,"Kunelius, Risto",AUTHOR
+2705,795,"Noppari, Elina",AUTHOR
+2706,796,"Noppari, Elina",AUTHOR
+2707,796,"Reunanen, Esa",AUTHOR
+2708,796,"Noppari, Elina",AUTHOR
+2709,796,"Reunanen, Esa",AUTHOR
+2710,797,"Lappalainen, Sirpa",AUTHOR
+2711,797,"Lappalainen, Sirpa",AUTHOR
+2712,798,"Mattinen, Pauliina",AUTHOR
+2713,798,"Mattinen, Pauliina",AUTHOR
+2714,799,"Skön, Kirsi",AUTHOR
+2715,799,"Torkkola, Sinikka",AUTHOR
+2716,799,"Skön, Kirsi",AUTHOR
+2717,799,"Torkkola, Sinikka",AUTHOR
+2718,800,"Palukka, Hannele",AUTHOR
+2719,800,"Tiilikka, Tiina",AUTHOR
+2720,800,"Palukka, Hannele",AUTHOR
+2721,800,"Tiilikka, Tiina",AUTHOR
+2722,801,"Karikoski, Anne",AUTHOR
+2723,801,"Karikoski, Anne",AUTHOR
+2724,802,"Eriksson, Susan",AUTHOR
+2725,802,"Eriksson, Susan",AUTHOR
+2726,803,"Kuukka, Katri",AUTHOR
+2727,803,"Kuukka, Katri",AUTHOR
+2728,804,"Ikonen, Hanna-Mari",AUTHOR
+2729,804,"Ikonen, Hanna-Mari",AUTHOR
+2730,805,"Höckert, Emily",AUTHOR
+2731,805,"Höckert, Emily",AUTHOR
+2732,806,"Reunanen, Esa",AUTHOR
+2733,806,"Kunelius, Risto",AUTHOR
+2734,806,"Noppari, Elina",AUTHOR
+2735,806,"Reunanen, Esa",AUTHOR
+2736,806,"Kunelius, Risto",AUTHOR
+2737,806,"Noppari, Elina",AUTHOR
+2738,807,"Kunelius, Risto",AUTHOR
+2739,807,"Noppari, Elina",AUTHOR
+2740,807,"Reunanen, Esa",AUTHOR
+2741,807,"Kunelius, Risto",AUTHOR
+2742,807,"Noppari, Elina",AUTHOR
+2743,807,"Reunanen, Esa",AUTHOR
+2744,808,"Hakovirta, Mia",AUTHOR
+2745,808,"Hakovirta, Mia",AUTHOR
+2746,809,"Mary, Aurelie",AUTHOR
+2747,809,"Mary, Aurelie",AUTHOR
+2748,810,"Tepponen, Pirkko",AUTHOR
+2749,810,"Tepponen, Pirkko",AUTHOR
+2750,811,"Kinnunen, Ulla",AUTHOR
+2751,811,"Kinnunen, Ulla",AUTHOR
+2752,812,"Leinikki, Sikke",AUTHOR
+2753,812,"Leinikki, Sikke",AUTHOR
+2754,813,"Mäkinen, Arja",AUTHOR
+2755,813,"Mäkinen, Arja",AUTHOR
+2756,814,"Mäkinen, Arja",AUTHOR
+2757,814,"Mäkinen, Arja",AUTHOR
+2758,815,"Salonen, Kari",AUTHOR
+2759,815,"Salonen, Kari",AUTHOR
+2760,816,"Salonen, Kari",AUTHOR
+2761,816,"Salonen, Kari",AUTHOR
+2762,817,"Peltoniemi, Aila",AUTHOR
+2763,817,"Peltoniemi, Aila",AUTHOR
+2764,818,"Iltanen, Sonja",AUTHOR
+2765,818,"Iltanen, Sonja",AUTHOR
+2766,819,"Tepponen, Pirkko",AUTHOR
+2767,819,"Tepponen, Pirkko",AUTHOR
+2768,820,"Niemelä, Anna",AUTHOR
+2769,820,"Niemelä, Anna",AUTHOR
+2770,821,"Jokiniemi, Sinikka",AUTHOR
+2771,821,"Jokiniemi, Sinikka",AUTHOR
+2772,822,"Jaakkola, Magdalena",AUTHOR
+2773,822,"Jaakkola, Magdalena",AUTHOR
+2774,823,"Kosonen, Ulla",AUTHOR
+2775,823,"Kosonen, Ulla",AUTHOR
+2776,824,"Lampi, Hannu",AUTHOR
+2777,824,"Lampi, Hannu",AUTHOR
+2778,825,"Kinnunen, Taina",AUTHOR
+2779,825,"Kinnunen, Taina",AUTHOR
+2780,826,"Miettinen, Sonja",AUTHOR
+2781,826,"Miettinen, Sonja",AUTHOR
+2782,827,"Haikonen, Matti",AUTHOR
+2783,827,"Haikonen, Matti",AUTHOR
+2784,828,"Juvonen, Tuula",AUTHOR
+2785,828,"Juvonen, Tuula",AUTHOR
+2786,829,"Pulkkinen, Lea",AUTHOR
+2787,829,"Pulkkinen, Lea",AUTHOR
+2788,830,"Pulkkinen, Lea",AUTHOR
+2789,830,"Pulkkinen, Lea",AUTHOR
+2790,831,"Pulkkinen, Lea",AUTHOR
+2791,831,"Pulkkinen, Lea",AUTHOR
+2792,832,"Juvonen, Tuula",AUTHOR
+2793,832,"Juvonen, Tuula",AUTHOR
